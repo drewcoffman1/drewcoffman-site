@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Eleventy
+_site/
+.cache/
+
+# Dependencies
+node_modules/
+
+# Environment
+.env
