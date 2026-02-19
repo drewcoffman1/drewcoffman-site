@@ -1,970 +1,971 @@
 {
-"2023": [
-{
-"title": "Plainsong",
-"author": "Kent Haruf",
-"cover": "images/plainsong.jpeg",
-"badge": "❤",
-"review": "The struggles of ordinary people told through spare yet stirring prose. A pastoral portrait of small-town life. A tender exploration of the hardships and hopes of interconnected souls in a fading rural community."
-},
-{
-"title": "Politigram and the Post Left",
-"author": "Joshua Citarella",
-"isbn": 9781006610196,
-"badge": "❤",
-"review": "An avant garde exploration into the evolving landscape of political ideology in the age of social media. My favorite pages are just screenshots of Discord, more books should have this."
-},
-{
-"title": "Excellent Advice for Living",
-"author": "Kevin Kelly",
-"isbn": "9780593654521",
-"badge": null,
-"review": "Endearing life wisdom told through witty aphorisms and earnest encouragements of curiosity, presence, and embracing the texture of everyday experience. Nice to have on your desk to pick up and read a page or two from time to time."
-},
-{
-"title": "Extremely Online",
-"author": "Taylor Lorenz",
-"isbn": "9781982146863",
-"badge": "❤",
-"review": "Compelling case for how the internet has evolved, challenging the conventional notion of a web shaped predominantly by venture capitalists and social media gurus and instead showcasing how the true architects of internet culture are the often-overlooked figures: mommy bloggers, savvy teens, and ordinary individuals who mastered the art of seizing the zeitgeist. A retrospective of the last two decades of internet history."
-},
-{
-"title": "Elon Musk",
-"author": "Walter Isaacson",
-"isbn": "9781982181284",
-"badge": "❤",
-"review": "About a person in relentless motion, flitting from one venture to the next: SpaceX, Tesla, The Boring Company, Neuralink, SolarCity, and now Twitter/X along with xAI. His life seems less like a series of calculated steps and more like an impromptu series of decisions to make big gambles and go all in. An exploration of who is actually behind the public persona, demented by a vision that’s always a few steps ahead of reality."
-},
-{
-"title": "The Road Not Taken",
-"author": "Harry Turtledove",
-"cover": "images/the road not taken.jpeg",
-"badge": "❤",
-"review": "An alternate reality that imagines the consequences of spacefaring civilizations that learn how to travel at light speed before they gain other technologies, while we remain earthbound but develop a tech tree of an entirely different sort. A compelling tale of war, power, and the contingencies of history."
-},
-{
-"title": "Creative Types",
-"author": "Tom Bissell",
-"isbn": "152474915X",
-"badge": "❤",
-"review": "Told with disarming honesty, a reflection on the challenges of the creative life told through a series of charming stories, fictional, real, and somewhere in-between."
-},
-{
-"title": "Software for Artists Book",
-"author": "Various",
-"cover": "images/software for artists.jpeg",
-"badge": "❤",
-"review": "Brings together a diverse range of voices and perspectives, each contributing to a broader conversation about creativity, digital tools, and the internet’s role in reshaping art. Its exploratory nature (and expert editing) makes it a valuable resource for artists, technologists, and anyone interested in the intersection of art and digital culture."
-},
-{
-"title": "Train Dreams",
-"author": "Denis Johnson",
-"isbn": "9781250007650",
-"badge": "❤",
-"review": "A haunting novella told with prose as sparse and striking as the American West it depicts."
-},
-{
-"title": "Make Something Wonderful",
-"author": "Steve Jobs",
-"cover": "images/make something wonderful.jpeg",
-"badge": null,
-"review": "Though hagiographic at times, many of the collected speeches here are as inspiring as ever."
-},
-{
-"title": "In The Stacks",
-"author": "Robin Sloan",
-"cover": "images/in the stacks.jpeg",
-"badge": null,
-"review": "An enchanting love letter to libraries and maker culture. Worth experiencing on the site it was published on, if only to enjoy the synthesizer built into both the book and the page itself."
-},
-{
-"title": "Cribsheet",
-"author": "Emily Oster",
-"isbn": "9780525559276",
-"badge": "❤",
-"review": "A data-driven parenting guide that was the most helpful of all books I read while waiting for Luna to arrive. I consider this my only ‘must-read’ for anyone expecting a baby."
-},
-{
-"title": "Precious Little Sleep",
-"author": "Alexis Dubief",
-"isbn": "9780997580808",
-"badge": null,
-"review": "Though well-intentioned, this sleep training manual adopts a prescriptive, one-size-fits-all approach that fails to appreciate how individual temperaments require nurturing over rigidity. We sleep trained (and are thankful that we did it) but I didn’t find much help within these pages."
-},
-{
-"title": "Bringing Up Bébé",
-"author": "Pamela Druckerman",
-"isbn": "9780143122968",
-"badge": null,
-"review": "Attempts to distill the essence of French parenting into a digestible guide, but it ends up romanticizing and oversimplifying a complex cultural phenomenon. Peppered with personal anecdotes that aim to charm but often detract from the credibility and universality of the advice."
-},
-{
-"title": "Happiest Baby on the Block",
-"author": "Harvey Karp",
-"isbn": "9780553393231",
-"badge": null,
-"review": "While the techniques for soothing fussy infants has merit, this book often oversells this branded method as a panacea while diminishing parents’ intuitive wisdom. Repetitive and overly simplistic advice offers more dogma than practical, adaptable solutions."
-},
-{
-"title": "Milk!",
-"author": "Mark Kurlansky",
-"cover": "images/milk.jpeg",
-"badge": "❤",
-"review": "Culinary history can be so interesting! A book on how milk has shaped culture, cuisine, and civilization itself. A deeply researched yet highly readable account."
-},
-{
-"title": "The President Has Been Shot!",
-"author": "James L. Swanson",
-"isbn": "9780545490078",
-"badge": null,
-"review": "Listened to this as an audiobook because it was read by my favorite narrator, Will Patton. A well-researched version of this tragedy told through moment-by-moment storytelling."
-},
-{
-"title": "Illusions II",
-"author": "Richard Bach",
-"isbn": "1495345017",
-"badge": null,
-"review": "Overwrought sequel that sadly lacks the charm of the original. Attempting to recapture the magic of his earlier works, this book lacks the originality and depth that charmed me so much the first time around."
-},
-{
-"title": "Cooking at Home",
-"author": "David Chang & Priya Krishna",
-"isbn": "9781524759247",
-"badge": null,
-"review": "An accessible home cooking guide from the Momofuku chef that strangely centers around the microwave -- but I found it helpful to remember that this tool I have in the kitchen isn’t meant to be relegated to thawing frozen dinners."
-},
-{
-"title": "WARHOLCAPOTE",
-"author": "Rob Roth",
-"isbn": "9781982103842",
-"badge": null,
-"review": "A ‘non-fiction invention’, this imaginative novel turns scattered tape recordings of Warhol and Capote into an actual play. An atmospheric celebration of New York’s midcentury cultural renaissance, perhaps best experienced as an audiobook."
-}
-],
-"2024": [
-{
-"title": "Days at the Morisaki Bookshop",
-"author": "Satoshi Yagisawa",
-"isbn": "9780063278677",
-"badge": "❤",
-"review": "Cozy Japanese bookstore slice-of-life that hits that perfect sweet spot between "nothing happens" and "everything matters." Sometimes healing is just vibing with old books and weird regulars. Will make you want to open a bookstore."
-},
-{
-"title": "When We Cease to Understand the World",
-"author": "Benjamín Labatut",
-"isbn": "9781681375663",
-"badge": null,
-"review": "Traces how breakthrough moments in physics and math drove their discoverers literally insane. Blurs the line between fact and fiction until you’re not sure what’s real anymore, which is probably the point. Worked with some characters better than others. The chapter on Turing was one of my favorites."
-},
-{
-"title": "Moonwalking with Einstein",
-"author": "Joshua Foer",
-"isbn": "9780143120537",
-"badge": "❤",
-"review": "Peak guy-spends-a-year-doing-something book but ACTUALLY delivers. Starts as an investigation into memory champions then morphs into a quest to become one. Especially interesting take on how Fitts’ three stages of learning (cognitive → associative → autonomous) apply to literally everything from typing to remembering Shakespeare."
-},
-{
-"title": "Life in the Negative World",
-"author": "Aaron M. Renn",
-"cover": "images/life in the negative world.jpg",
-"badge": null,
-"review": "Cultural analysis that starts strong but gets kinda mid. Maps a "positive to neutral to negative" framework onto American Christianity’s declining social capital. Some fascinating bits about Quaker business ethics and how male influencers filled the vacuum left by institutional Christianity’s retreat from offering clear guidance to men. Unfortunately devolves into giving Christians advice about antifragility and FIRE to avoid cancelation. Some good stuff about institutional decay but reads like premium Substack content stretched to book length."
-},
-{
-"title": "The Conservative Futurist",
-"author": "James Pethokoukis",
-"isbn": "9781546005544",
-"badge": "❤",
-"review": "Peak tech optimism meets policy realism. Makes the case that innovation requires both having the right cultural mindset and institutional support -- neither of which we currently have much of. Great takedown of "we’ve peaked" doomerism via historical examples of innovation pessimists getting bodied by reality. Strong on diagnosing why progress has slowed (spoiler: it’s the institutions) even if some of the prescriptions feel a bit think-tanky."
-},
-{
-"title": "In Praise of Shadows",
-"author": "Jun’ichirō Tanizaki",
-"isbn": "9780918172020",
-"badge": null,
-"review": "A poetic rumination on traditional aesthetics, extolling the beauty of shadows and darkened spaces. Frankly, it didn’t land with me, but it’s fun to read about light and mood from someone who clearly cares about this subject more than anything else."
-},
-{
-"title": "Humanly Possible",
-"author": "Sarah Bakewell",
-"isbn": "1784745170",
-"badge": "❤",
-"review": "Seven centuries of humanist thought woven together with Bakewell’s characteristic grace. If you’ve read her on Montaigne, you know the deal -- she makes philosophical history feel like catching up with old friends. A good case for why this worldview has remained so resilient, even in the face of fanaticism and tyranny."
-},
-{
-"title": "The Orchid Thief",
-"author": "Susan Orlean",
-"isbn": "9780449003718",
-"badge": "❤",
-"review": "Sublime character study disguised as plant journalism. Uses Florida’s orchid-obsessed subculture to explore how passion morphs into obsession. The kind of narrative that makes you realize every niche contains an entire universe."
-},
-{
-"title": "The Perfect Thing",
-"author": "Steven Levy",
-"isbn": "9780743285230",
-"badge": null,
-"review": "Reading this 2006 iPod history in 2024 feels like archeology. Fascinating time capsule of Tech’s Cambrian explosion, but written too early to capture how profoundly digital music would reshape culture. Best parts are the Jobs anecdotes -- pure Steve behavior throughout."
-},
-{
-"title": "Blood, Sweat, and Pixels",
-"author": "Jason Schreier",
-"cover": "images/bloodsweat.jpg",
-"badge": "❤",
-"review": "Peak games journalism. Each chapter is a war story from the gaming industry’s front lines, laying bare both the creative triumph and human cost of your favorite titles. Pours one out for Star Wars 1313 while explaining exactly why your favorite studio keeps imploding."
-},
-{
-"title": "The Everything Token",
-"author": "Steve Kaczynski & Scott Kominers",
-"cover": "images/everythingtoken.jpg",
-"badge": "❤",
-"review": "An excellent primer on the transformative potential of an onchain future. Maps out the "NFT staircase" with crystal clarity -- from basic collectibles to full community infrastructure. A thought-provoking exploration of how new systems can reshape our relationship with digital goods and communities."
-},
-{
-"title": "Press Reset",
-"author": "Jason Schreier",
-"isbn": "9781538735480",
-"badge": "❤",
-"review": "The darker sequel to Blood, Sweat, and Pixels. Trades insular development drama for an industry-wide existential crisis. Chronicles the human cost of treating creative work like quarterly numbers. Will make you think twice about preordering games from unstable studios while candidly revealing the human toll behind the games we play."
-},
-{
-"title": "Sid Meier’s Memoir!",
-"author": "Sid Meier",
-"isbn": "9781324005872",
-"badge": "❤",
-"review": "The GOAT of strategy games turns out to be exactly who you hoped -- just a chill dude who loves making fun systems. Less a memoir than a master class in game design philosophy. Pure joy for anyone who’s ever lost a weekend to "one more turn.""
-},
-{
-"title": "The White Darkness",
-"author": "David Grann",
-"isbn": "038554457X",
-"badge": "❤",
-"review": "Takes Antarctic exploration -- already fascinating -- and turns it into a psychological thriller about humanity’s need to push limits. Weaves together the tale of Henry Worsley’s modern-day expeditions with the larger history of polar adventure. The kind of narrative that makes you grateful to be reading about it rather than living it."
-},
-{
-"title": "Creative Selection",
-"author": "Ken Kocienda",
-"isbn": "9781250194466",
-"badge": "❤",
-"review": "Inside baseball from Apple’s golden era. Yes, there’s some Jobs worship, but the real value is in the nitty-gritty of how Apple’s obsession with details created the iPhone’s groundbreaking UX. Read it for the keyboard war stories alone."
-},
-{
-"title": "Some Remarks",
-"author": "Neal Stephenson",
-"isbn": "9780062024442",
-"badge": null,
-"review": "An anthology of Neal Stephenson’s essays and interviews from across his long career, but a bit of a letdown. An uneven collection that opens with a desk review. Yes, really. Skip unless you’re a hardcore Stephenson completionist. Even then, maybe just read Snow Crash again instead."
-},
-{
-"title": "Unreasonable Hospitality",
-"author": "Will Guidara",
-"isbn": "9780593418574",
-"badge": "❤",
-"review": "Eleven Madison Park’s secret sauce revealed: Treating hospitality as a radical act. Perfect blend of high-end restaurant drama and applicable wisdom. Makes you want to revolutionize customer service, no matter your industry."
-},
-{
-"title": "Soul Boom",
-"author": "Rainn Wilson",
-"isbn": "9780306828270",
-"badge": null,
-"review": "Wilson (yes, Dwight from The Office) gives us a popcorn spirituality book that actually works. Approaches big questions with humor and humility instead of preachiness. Not groundbreaking, but surprisingly engaging."
-},
-{
-"title": "Filterworld",
-"author": "Kyle Chayka",
-"isbn": "9780385548281",
-"badge": null,
-"review": "How algorithms and digital filters shape our perception of reality, influencing everything from our social interactions to our consumption habits. In my opinion, this already feels dated. Tries to examine algorithmic culture but ends up reading like a time capsule from 2020."
-},
-{
-"title": "Co-Intelligence",
-"author": "Ethan Mollick",
-"isbn": "9780753560778",
-"badge": null,
-"review": "Explores collective intelligence and decision-making. Sometimes gets lost in its own framework but occasionally surfaces for brilliant insights about collective decision-making. Worth skimming for the gems."
-},
-{
-"title": "Supercommunicators",
-"author": "Charles Duhigg",
-"isbn": "9780593243916",
-"badge": "❤",
-"review": "Rare business book that delivers immediate value instead of just repackaging common sense. The author’s emphasis on turning negotiations into collaborations by asking open-ended questions is insightful. As Oscar Wilde said, "Ultimately the bond of all companionship, whether in marriage or in friendship, is conversation" -- and this book gives you the tools to forge those bonds."
-},
-{
-"title": "Build",
-"author": "Tony Fadell",
-"isbn": "9781787634107",
-"badge": "❤",
-"review": "An insider account of building revolutionary products at Apple and Nest, offering valuable lessons on innovation, leadership, and design thinking. Brutal honesty from someone who’s seen both sides of Silicon Valley success. The fact that Fadell’s exits were messy makes his insights way more valuable than typical tech leader victory laps. Real talk about what innovation actually costs."
-},
-{
-"title": "Evil Robots, Killer Computers",
-"author": "Steven Shwartz",
-"cover": "images/evilrobots.jpg",
-"badge": null,
-"review": "A relatively level-headed look at AI and robotics, offering a balanced view of the future of technology. If you know someone worried about the AIpocolypse, this acts as a helpful response."
-},
-{
-"title": "The Soul of a New Machine",
-"author": "Tracy Kidder",
-"isbn": "9780316491709",
-"badge": null,
-"review": "An account of the early days of the computer, capturing the passion and pressure behind technological innovation -- but unfortunately written just before the true revolution of the personal computer actually happened."
-},
-{
-"title": "The Demon of Unrest",
-"author": "Erik Larson",
-"isbn": "9780385348744",
-"badge": "❤",
-"review": "A vivid historical account that brings to life a pivotal moment in American history, examining the tensions and personalities that led to the Civil War."
-},
-{
-"title": "The True Believer",
-"author": "Eric Hoffer",
-"isbn": "9780060505912",
-"badge": "❤",
-"review": "A classic study of mass movements remains as relevant as ever, offering insights into the psychology of fanaticism and the appeal of extreme ideologies."
-},
-{
-"title": "Wild Problems",
-"author": "Russ Roberts",
-"cover": "images/wildproblems.jpg",
-"badge": null,
-"review": "A stimulating examination of life’s biggest decisions that sometimes gets lost in its own abstractions. Roberts makes a compelling case for embracing uncertainty and following our intuition when faced with choices that can’t be easily quantified. While his economic lens offers fresh insights, the book occasionally veers into overly academic territory."
-},
-{
-"title": "Good Strategy Bad Strategy",
-"author": "Richard Rumelt",
-"isbn": "9780307886231",
-"badge": null,
-"review": "Worth it just for the revelation that most "strategies" are just goals with vibes. Actually teaches you how to think strategically instead of just collecting frameworks, and reminds you that having a real strategy at all elevates you above the majority of businesses and leaders that operate without one."
-},
-{
-"title": "Little Lyell Machines",
-"author": "Kirsten Bevin",
-"cover": "images/littlelyell.jpg",
-"badge": "❤",
-"review": "A wonderful book connecting an onchain project to a very real place on this earth. I love it when the digital and the physical connects."
-},
-{
-"title": "Pops",
-"author": "Michael Chabon",
-"isbn": "0062851128",
-"badge": null,
-"review": "A heartfelt ode to fatherhood that brims with warmth. The essay on taking his fashion-obsessed son to Paris Fashion Week is a standout, capturing the tender fumbling of a dad trying to connect with and support his child’s passion."
-},
-{
-"title": "The Contrarian",
-"author": "Max Chafkin",
-"cover": "images/thecontrarian.jpg",
-"badge": null,
-"review": "Easily my least favorite book I read all year. While thorough in accumulating details, Chafkin seems more interested in dunking on Thiel than actually understanding what makes him tick. Feels like reading a narrative from someone who already made up their mind before they even began."
-},
-{
-"title": "The Discoverers",
-"author": "Daniel Boorstin",
-"isbn": "9780394726250",
-"badge": null,
-"review": "A sweeping survey of human innovation that’s the equivalent of the type of film a substitute teacher puts on in class -- and I mean that as a compliment. An inspiring, if shallow, chronicle of mankind’s quest for knowledge."
-},
-{
-"title": "The Bookshop",
-"author": "Evan Friss",
-"isbn": "0593299922",
-"badge": null,
-"review": "A disappointing attempt to chronicle the American bookstore. Even with such rich source material, it manages to make the history of bookselling feel tedious. One of the few books this year I had to force myself to finish."
-},
-{
-"title": "Most Dangerous Man in America",
-"author": "Bill Minutaglio & Steven L. Davis",
-"cover": "images/mostdangerousman.jpg",
-"badge": "❤",
-"review": "A riveting chronicle of Timothy Leary’s wild adventures as a counterculture icon on the run, weaving together FBI records, interviews, and vivid storytelling to transport readers into a bygone era of cultural upheaval under a drug revolution and Richard Nixon’s presidency. Meticulously researched yet reads like a thriller."
-},
-{
-"title": "Prepare to Meet Thy Doom",
-"author": "David Kushner",
-"isbn": "1943499845",
-"badge": null,
-"review": "A scattershot collection of video game history that never quite levels up to its potential, or its predecessor, Masters of Doom. Kushner’s enthusiasm for the subject shines through, but while some essays offer intriguing glimpses into gaming’s past, others feel disjointed and half-finished."
-},
-{
-"title": "First Principles",
-"author": "Thomas E. Ricks",
-"isbn": "9780062997463",
-"badge": null,
-"review": "Tries to connect the Founders to classical philosophy but gets distracted comparing them to modernity. Interesting premise, mid execution."
-},
-{
-"title": "California: Designing Freedom",
-"author": "Justin McGuirk",
-"isbn": "9780714873527",
-"badge": "❤",
-"review": "A look at how California’s culture of innovation and individualism shaped modern design and technology. The connections drawn between counterculture movements and Silicon Valley’s ethos are illuminating. Bonus points for including Jobs’ best speech with a preface by Jony Ive."
-},
-{
-"title": "City at the Edge of Forever",
-"author": "Peter Lunenfeld",
-"cover": "images/edgeofforever.jpg",
-"badge": "❤",
-"review": "A kaleidoscopic history of Los Angeles as a place always one-foot into the future. Gets how immigrant creativity and outsider art shaped the city’s identity. Required reading for understanding why LA keeps reinventing itself."
-},
-{
-"title": "Little Red Book",
-"author": "Facebook",
-"cover": "images/littlered.jpg",
-"badge": "❤",
-"review": "Facebook’s internal design manifesto, originally given only to employees. Fascinating look at how companies try to scale vibes."
-},
-{
-"title": "Butcher’s Crossing",
-"author": "John Williams",
-"isbn": "9781590171981",
-"badge": "❤",
-"review": "Harvard kid learns about "authenticity" the hard way in 1870s frontier America. Perfect takedown of everyone who thinks they’ll find themselves in the wilderness. Brutal in all the right ways."
-},
-{
-"title": "The Midnight Library",
-"author": "Matt Haig",
-"isbn": "9780525559474",
-"badge": "❤",
-"review": "A poignant and imaginative story about the choices we make in life, offering a hopeful message about second chances and the power of perspective."
-},
-{
-"title": "Cosmopolis",
-"author": "Don DeLillo",
-"isbn": "9780743244251",
-"badge": "❤",
-"review": "Late capitalism critique set mostly in a billionaire’s limo. Weird AF but that’s the point. DeLillo understood tech bros before they existed."
-},
-{
-"title": "Eventide",
-"author": "Kent Haruf",
-"isbn": "0330433717",
-"badge": "❤",
-"review": "Small town Colorado lives rendered with perfect precision. Makes ordinary drama feel epic without trying too hard. Perfect book for realizing life is actually about small moments."
-},
-{
-"title": "The Illustrated Man",
-"author": "Ray Bradbury",
-"isbn": "9781451678185",
-"badge": "❤",
-"review": "A series of short stories which showcases why Bradbury was one of the best to ever do it. I would rank ‘The Veldt’ as one of my favorite pieces of fiction of all time, just because it’s such a perfect capsule of fiction."
-},
-{
-"title": "The Flame",
-"author": "Leonard Cohen",
-"cover": "images/theflame.jpg",
-"badge": null,
-"review": "A posthumous collection of Leonard Cohen’s poetry and lyrics, offering a final glimpse into the mind of the musician. I have never been too big of a Cohen fan, but this ultimately made me like him."
-},
-{
-"title": "Dune Messiah",
-"author": "Frank Herbert",
-"isbn": "9780593098233",
-"badge": "❤",
-"review": "Read this right after Dune, and it pulls my favorite trick for a sequel, subverting the hero’s journey entirely to explore the consequences of power and prophecy."
-},
-{
-"title": "Sea of Tranquility",
-"author": "Emily St. John Mandel",
-"isbn": "9780593321447",
-"badge": "❤",
-"review": "A time-bending novel weaves together multiple storylines across centuries, exploring themes of art, love, and the nature of reality. Pretty cozy."
-},
-{
-"title": "The Stars at Noon",
-"author": "Denis Johnson",
-"cover": "images/stars at noon.jpeg",
-"badge": "❤",
-"review": "Fever dream thriller in revolutionary Nicaragua following an American woman caught in a web of espionage. Makes you feel sticky just reading it."
-},
-{
-"title": "The Passenger",
-"author": "Cormac McCarthy",
-"isbn": "9780307268990",
-"badge": "❤",
-"review": "McCarthy goes full quantum mechanics and somehow pulls it off. The sparse yet poetic prose cuts to the bone, weaving a tale of guilt, grief, and the search for meaning. The protagonist’s philosophical musings and encounters with an eccentric cast of characters create a dreamlike atmosphere that lingers long after the final page."
-},
-{
-"title": "Stella Maris",
-"author": "Cormac McCarthy",
-"isbn": "9780593663561",
-"badge": null,
-"review": "A haunting companion piece to "The Passenger," delving deeper into the troubled psyche of the protagonist’s sister through a series of psychiatric sessions."
-},
-{
-"title": "Babel",
-"author": "R.F. Kuang",
-"isbn": "9780063021426",
-"badge": "❤",
-"review": "Dark academia meets colonialism critique but make it about silver and translation magic. The Oxford parts are so cozy you wish the plot would never start."
-},
-{
-"title": "Trust",
-"author": "Hernan Diaz",
-"isbn": "9780593420317",
-"badge": null,
-"review": "Tries to Rashomon the unreliable narrator concept but doesn’t quite stick the landing. Clever structure in search of a point. Respect the attempt though."
-},
-{
-"title": "We the Animals",
-"author": "Justin Torres",
-"isbn": "9780547576725",
-"badge": null,
-"review": "A raw, poetic coming-of-age story that pulses with feral energy. Torres captures the wild rhythms of childhood and the jagged edges of family bonds with lyrical prose that veers between beauty and brutality."
-},
-{
-"title": "Shutter Island",
-"author": "Dennis Lehane",
-"isbn": "3257243359",
-"badge": "❤",
-"review": "Blueprint so solid Scorsese basically just filmed the book. Psychological thriller that earns its twists. Read it even if you’ve seen the movie."
-},
-{
-"title": "Caught Stealing",
-"author": "Charlie Huston",
-"isbn": "9780345464781",
-"badge": "❤",
-"review": "Evokes the spirit of ‘The Long Goodbye’ -- both protagonists share a certain reluctant cynicism, drawn into danger more by circumstance than by choice. Hank Thompson, like Philip Marlowe, is just trying to maintain his sense of morality while the world around him descends into chaos. Great noir."
-},
-{
-"title": "Revolutionary Road",
-"author": "Richard Yates",
-"isbn": "9780375708442",
-"badge": "❤",
-"review": "A devastating portrait of 1950s suburban discontent that still resonates today. Yates dissects the quiet desperation of a marriage and the gulf between our aspirations and reality. Weird to read a book where the author clearly hates the protagonist, too."
-},
-{
-"title": "Trust Me",
-"author": "John Updike",
-"isbn": "0140113630",
-"badge": null,
-"review": "A collection of short stories which mostly explore marriage and death. Updike’s precise attention to detail and subtle character insights remain sharp, but some stories feel more like exercises than fully realized narratives."
-},
-{
-"title": "A Good School",
-"author": "Richard Yates",
-"isbn": "044013000X",
-"badge": null,
-"review": "What starts as a seemingly straightforward prep school novel becomes a nuanced exploration of the psychological mechanics of how the American dream absolutely bodies people. Bleak but fascinating."
-},
-{
-"title": "Of Mice and Men",
-"author": "John Steinbeck",
-"isbn": "9780140186420",
-"badge": null,
-"review": "Steinbeck’s classic novella about friendship and dreams in Depression-era California. Powerful but painful reading that raises timeless questions about mercy, loyalty, and what we owe to each other."
-},
-{
-"title": "How Adam Smith Can Change Your Life",
-"author": "Russ Roberts",
-"isbn": "9781591847953",
-"badge": "★",
-"review": "A refreshing look at Adam Smith’s lesser-known work on moral philosophy, offering timeless wisdom on how to lead a good life in the modern world. A central revelation is Smith’s subtle but powerful distinction between being "loved" and being "lovely." True fulfillment comes not from collecting praise, but from becoming genuinely praiseworthy; not from being admired, but from becoming truly admirable."
-},
-{
-"title": "Whole Earth",
-"author": "John Markoff",
-"cover": "images/whole earth.jpg",
-"badge": "❤",
-"review": "A chronicle of Stewart Brand and his impact within the countercultural movement that shaped modern technology, tracing the origins of Silicon Valley’s ethos back to the Whole Earth Catalog. Makes a case that Stewart Brand was consistently ahead of his time, making outsized impacts in industries but unable to fully capitalize on his forward-thinking vision."
-},
-{
-"title": "Augustus",
-"author": "John Williams",
-"isbn": "0670141127",
-"badge": "★",
-"review": "A masterful historical novel told in the form of epistolary. Chronicling Rome’s first emperor, Williams brings the political intrigue and personal costs of power to vivid life. This pulls off something incredible: Making ancient political intrigue feel relevant without forcing modern parallels. This portrait of Augustus as both idealist and pragmatist, revolutionary and institution-builder feels deeply relevant to modern leadership challenges."
-},
-{
-"title": "Autonomous Worlds",
-"author": "Anthology",
-"cover": "images/autonomous worlds.jpeg",
-"badge": "★",
-"review": "A fantastic set of essays considering what it means as our world becomes increasingly onchain and increasingly filled with virtual worlds, agents, and identities. I imagine that I’ll pick this back up a few more times over the coming years as things continue to shift."
-},
-{
-"title": "East of Eden",
-"author": "John Steinbeck",
-"isbn": "9780142004234",
-"badge": "❤",
-"review": "A profound exploration of inherited sin, free will, and the tension between light and darkness. Steinbeck understood that choice is what makes us human, and watching characters wrestle with that freedom is both beautiful and brutal."
-},
-{
-"title": "Dune",
-"author": "Frank Herbert",
-"isbn": "9780593099322",
-"badge": "❤",
-"review": "An epic masterpiece of science fiction that continues to resonate decades after its publication. I had never read it before and expected to be underwhelmed, but Herbert’s world-building is unparalleled, creating a richly detailed universe of feudal politics and mysticism wonder. The story of Paul Atreides’ journey from privileged heir to messianic revolutionary a timeless exploration of power, destiny, and the human spirit."
-},
-{
-"title": "The Secret Life of Groceries",
-"author": "Benjamin Lorr",
-"isbn": "9780553459418",
-"badge": "❤",
-"review": "An eye-opening expose of how our food gets to market. The author dives into trucking, fish sourcing, retail workers, and more. Also includes what is essentially a mini-biography of Joe from Trader Joes. Makes you realize every item on the shelf contains an entire universe of human struggle."
-},
-{
-"title": "Read Write Own",
-"author": "Chris Dixon",
-"cover": "images/read write own.jpg",
-"badge": "❤",
-"review": "Some of the best thinking on the future of the internet and digital ownership. Dixon’s insight that "what the smartest people do on the weekends is what everyone else will do in the week in ten years" feels prophetic. Technology shifts every 15 years. It’s time for something new."
-},
-{
-"title": "God, Human, Animal, Machine",
-"author": "Meghan O’Gieblyn",
-"isbn": "9780525562719",
-"badge": "❤",
-"review": "Philosophy that actually helps you understand the AI moment we’re living through. O’Gieblyn connects all the dots between religious thinking and tech utopianism. Thought-provoking and deeply humane, this book challenges us to reconsider our place in the universe and our relationships with the myriad forms of intelligence -- organic and artificial -- that surround us."
-},
-{
-"title": "Range",
-"author": "David Epstein",
-"isbn": "9780735214484",
-"badge": "❤",
-"review": "Proves that being a dilettante is good, actually. Epstein draws from a fascinating array of examples across sports, science, and the arts to make his case. A refreshing counter to the "10,000 hours" narrative that will make you rethink how we approach mastery and innovation."
-}
-],
-"2025": [
-{
-"title": "There Is No Antimemetics Division",
-"author": "qntm",
-"isbn": "9781804954768",
-"badge": "❤",
-"review": "SCP wiki fiction that escaped containment and got a proper publishing deal. The premise -- entities you literally cannot remember exist, ideas that eat your ability to perceive them -- gets driven so far past breaking point it loops back around to weirdly rigorous. Fragmented structure means you’re dropped into scenes mid-crisis alongside characters who also have no idea what’s happening, which sounds annoying but actually rules. Reminded me of Clive Barker’s The Great and Secret Show in how the horror isn’t the monsters themselves but the cosmology underneath, and how both books saddle regular people with cosmic burdens they have no business carrying. The rare internet-born novel that earns its cult rep."
-},
-{
-"title": "How Music Got Free",
-"author": "Stephen Witt",
-"isbn": "0525426612",
-"badge": "❤",
-"review": "Tells the story of the mp3 revolution through three parallel narratives. The standout is Dell Glover, a CD manufacturing plant employee who leaked thousands of albums before release, becoming an inadvertent kingpin of the warez scene. Traces how technology repeatedly kneecapped the music industry over 20 years: mp3s begat piracy which decimated CDs, iTunes changed the album, YouTube opened up a new listening stream, VEVO made the music industry money again, and then streaming cannibalized everything. Each disruption felt like an ending but turned out to be just another chapter. Through this lens, it’s easy to see the music industry’s current model is just another temporary equilibrium waiting to be disrupted.  A great example of how tech obliterates business models and forces reinvention."
-},
-{
-"title": "Stupid TV, Be More Funny",
-"author": "Alan Siegel",
-"isbn": "9781538742846",
-"badge": "❤",
-"review": "The definitive history of The Simpsons’ golden era. I haven’t watched the show in decades but Siegel’s behind-the-scenes stories reminded me exactly why those early seasons became the cultural reference point for an entire generation. Fun to read the granular details about how certain episodes (still fresh in my memory!) were crafted through obsessive perfectionism and the willingness to burn jokes for the sake of better jokes. Fascinating to read about how the show was a pretty major contradiction: subversive enough to piss off George H.W. Bush while becoming a merchandising juggernaut that betrayed its own anti-corporate stance. Made me want to go watch the show again, but skip ‘Do the Bartman.’"
-},
-{
-"title": "No Rules Rules",
-"author": "Reed Hastings & Erin Meyer",
-"isbn": "9781984877864",
-"badge": "❤",
-"review": "Netflix’s radical culture decoded by the people who built it. Hastings lays out how extreme candor, talent density, and context-over-control created one of the most influential companies of our era. The timing of reading this during the Warner Bros/HBO acquisition was pretty perfect. Best chapters cover retention strategy (pay top of market so poaching becomes irrelevant) and navigating cultural barriers without diluting feedback culture. Some practices feel impossible to replicate without Netflix-level resources, but the underlying philosophy about treating adults like adults is refreshing."
-},
-{
-"title": "This is for Everyone",
-"author": "Tim Berners-Lee",
-"isbn": "9781035023677",
-"badge": "❤",
-"review": "The architect of the web explaining his original vision in his own words. Berners-Lee’s idealism about open protocols and universal access feels almost quaint now, and that’s exactly what makes it essential reading. Hearing him describe the web as a collaborative space for humanity rather than an ad-delivery system just hits different. His frustration with how platforms enclosed the commons he tried to create comes through clearly. Required context for anyone who wants to understand what we lost along the way."
-},
-{
-"title": "We Are the Nerds",
-"author": "Christine Lagorio-Chafkin",
-"isbn": "9780349416366",
-"badge": "❤",
-"review": "The definitive Reddit origin story, capturing a very specific moment in Silicon Valley when scrappy startups had an extremely clear path to becoming culture-shapers. This text captures the chaos of early Reddit (tech pivots, community experiments, personality clashes), but the really interesting part is watching founders sell their baby to people who fundamentally didn’t understand what made it special. A cautionary tale about optimizing for exit over ethos, and a great snapshot of mid-2000s startup culture before everything became professionalized."
-},
-{
-"title": "The Optimist",
-"author": "Keach Hagey",
-"cover": "images/optimist.jpeg",
-"isbn": "9781982195656",
-"badge": "❤",
-"review": "Chronicles Sam Altman’s rise from Y Combinator wunderkind to the guy most associated with kickstarting the AI boom. What makes it work is that Hagey doesn’t frame him as either Bond villain or savior, but as a prism: tilt one way and he’s a techno-messiah, tilt another and he’s just a Valley operator playing the game harder than anyone else. It’s not worship and it’s not a hit piece, more like an X-ray of someone who genuinely believes the future can be hacked into existence, even if the rest of the world isn’t sure that’s comforting."
-},
-{
-"title": "Chip War",
-"author": "Chris Miller",
-"isbn": "9781982172008",
-"badge": null,
-"review": "A history of how semiconductors became the new oil, except way more complicated and with Taiwan at the center of everything. Miller does the heavy lifting of explaining why TSMC basically controls the world economy without getting too deep in the technical weeds. Strong start with the early history of semiconductors, loses steam in the middle as it drifts into the modern era, but redeems itself with a sharp conclusion. Chips really are the keystone of modern power, and if we don’t figure out this supply chain mess, nothing else we build will matter."
-},
-{
-"title": "Everything is Tuberculosis",
-"author": "John Green",
-"isbn": "9780525556572",
-"badge": "❤",
-"review": "John Green makes a book about the world’s oldest plague feel like a YouTube essay you accidentally learn too much from: earnest, funny, and occasionally devastating. What makes it work is how he threads personal stories through the history, turning statistics into something human. Makes the case that bacteria isn’t the main villain, it’s our shrugging institutions and the fact that we only pay attention to slow-burn crises once they explode. A weirdly entertaining book that doubles as a warning shot about how fragile "public health" really is."
-},
-{
-"title": "Leadership and Self-Deception",
-"author": "The Arbinger Institute",
-"isbn": "9781523097807",
-"badge": "❤",
-"review": "A guide for being a better human disguised as a business book disguised as a parable. Cuts through all the corporate noise to say the real problem isn’t strategy or process, it’s how you treat people. Once you start seeing someone as an obstacle instead of a person, you’re trapped in a self-reinforcing cycle of justification. What could have been preachy becomes genuinely transformative because the authors make you confront your own patterns rather than just collecting frameworks."
-},
-{
-"title": "Twilight World",
-"author": "Werner Herzog",
-"isbn": "9780593490266",
-"badge": "❤",
-"review": "The true story of Hiroo Onoda, the Japanese soldier who kept fighting WWII in the jungle for 30 years after the war ended… but because it’s told by the one and only Herzog, it’s less biographical and more about finding the most obsessively committed human on earth and using him to explore what happens when devotion becomes delusion. You’re never quite sure if you’re reading history or watching the author project his own fascination with extremity onto Onoda’s story. It doesn’t matter! Beautifully written and deeply weird in ways that only he can pull off."
-},
-{
-"title": "What We Owe the Future",
-"author": "William MacAskill",
-"isbn": "9781541618626",
-"badge": null,
-"review": "Longtermism manifesto that gets increasingly unhinged as it scales up. The core insight is that we should consider future generations in our moral calculus, which, yeah! but once he starts running the numbers, the whole framework becomes this abstract utilitarian fever dream. Classic EA brain worms. Takes a reasonable moral intuition and mathematizes it into absurdity. I’m all for thinking long-term, but not when it means treating actual humans like variables in a cosmic spreadsheet."
-},
-{
-"title": "Apple in China",
-"author": "Patrick McGee",
-"cover": "images/apple in china.jpeg",
-"badge": "❤",
-"review": "FT reporter goes deep on Apple as a 30-year case study in getting played by your own supply chain. What starts as standard business history becomes a slow-motion car crash of corporate dependency. McGee shows how every "smart" decision to chase Chinese manufacturing and markets was actually Apple handing over leverage piece by piece until they had none left. What hits hardest is realizing this wasn’t inevitable. Apple had choices, but the quarterly earnings pressure and Wall Street’s obsession with margin expansion made every decision feel obvious at the time. Now we’re stuck with the iPhone being manufactured by a country that might ban it tomorrow."
-},
-{
-"title": "How Big Things Get Done",
-"author": "Bent Flyvbjerg & Dan Gardner",
-"isbn": "9780593239513",
-"badge": "❤",
-"review": "Cracks the code on why megaprojects consistently fail while offering a deceptively simple fix: think slow, act fast. Sounds like a fortune cookie until you hit the Olympics case study: Bazillions over budget every single time because each host city insists on reinventing the wheel with an entirely new team. The core insight -- that the planning phase is where you win or lose, not execution -- feels obvious in hindsight but revolutionary in practice. Everyone believes they’re immune to delays, overruns, and optimism bias. They’re not. You’re not. No one is. A must-read if you’re trying to build something big."
-},
-{
-"title": "The Art of Thinking Clearly",
-"author": "Rolf Dobelli",
-"isbn": "9780062219695",
-"badge": null,
-"review": "Basically a field guide to cognitive landmines we keep stepping on. The author speed-runs tons of biases in breezy, bite-sized essays, each tackling a different mental trap with crisp examples that make you cringe with recognition. Didn’t really stick with me but ymmv."
-},
-{
-"title": "Skunk Works",
-"author": "Ben Rich",
-"isbn": "9780316743006",
-"badge": "❤",
-"review": "An insider account of Lockheed’s legendary black projects division told by the dude who literally built the SR-71. The Skunk Works philosophy (small teams, minimal oversight, impossible deadlines) created the U-2, SR-71, and F-117 by basically ignoring every rule of modern corporate development. What hits hardest is how they treated secrecy as a feature, not a bug, using isolation to shield engineers from bureaucratic interference. Makes you wonder what we could build today if we stopped trying to democratize innovation and just let the weirdos cook."
-},
-{
-"title": "The Psychopath Inside",
-"author": "James Fallon",
-"isbn": "9781591846000",
-"badge": null,
-"review": "Neuroscientist maps psychopathy in brain scans, finds his own lighting up like a Christmas tree, then spends 250 pages debating whether he’s actually dangerous or just kind of a jerk. Fun premise, uneven execution. The memoir-meets-lab-report structure can’t decide if it’s a Netflix doc or a TED talk, and the "maybe I’m fine?" conclusion feels like letting himself off easy. Some genuinely fascinating insights about how psychopathic traits can be channeled productively (hello, Silicon Valley), but the book loses steam when the author gets too introspective about his own relationships."
-},
-{
-"title": "Against Platforms",
-"author": "Mike Pepi",
-"cover": "images/against platforms.jpeg",
-"badge": null,
-"review": "Sharp diagnosis, questionable cure. Pepi’s teardown of platform capitalism is genuinely excellent, cutting through Silicon Valley BS with surgical precision. The myth-busting chapters are perfect ammo for dunking on web 2.0, but the book loses me when it lumps all of crypto in with platform grift, dismissing it all as just another speculative permission slip for capitalism. I get distrusting VC funding, but the answer can’t be just doubling down on the same systems that enabled this mess. Worth reading for the platform critique, but the solutions feel like throwing out potentially transformative tech to save institutions that clearly aren’t working."
-},
-{
-"title": "Outraged",
-"author": "Kurt Gray",
-"cover": "images/outraged.jpg",
-"badge": "❤",
-"review": "Feels like it’s gonna be another "why can’t we all get along" hand-wringer, but it pivots hard into evolutionary anthropology around the 1/3 mark. The sudden shift to "let’s contemplate the dawn of human civilization to understand Twitter fights" shouldn’t work, but it absolutely does. More books should pull this stunt. Lots of nuggets that stick: both sides think the other side is dumber, facts never change minds during peak outrage, and dehumanization is the real monster lurking behind every culture war. Gray’s point is that the same tribal wiring that kept us alive on the savanna now makes us terrible at democracy. Essential for anyone wondering why reasoned discourse feels impossible rn."
-},
-{
-"title": "Things Become Other Things",
-"author": "Craig Mod",
-"isbn": "9780593732540",
-"badge": "❤",
-"review": "Ex-silicon valley product monk turned rural-japan ascetic Craig Mod pens a walking memoir as a long letter to his closest friend. Mod (normally the tour guide) makes himself the exhibit, and grief bleeds into every page. The book makes it painfully clear that for Mod, walking is the only coping mechanism that allows him to continue seeing beauty in the world. Lean, vivid, quietly profound."
-},
-{
-"title": "Positioning",
-"author": "Al Ries & Jack Trout",
-"isbn": "9780071373586",
-"badge": null,
-"review": "Published 45 years ago, this feels a bit like a fossil. Every example is a brand your dad remembers and the prose is soaked in Mad Men-era certainty, but the core insight holds: you don’t win by being better, you win by being first (or at least by saying something first). A proto-22 Immutable Laws, but flabbier. If you can squint past the dated bits, the thesis still bangs: perception is the only battlefield that matters."
-},
-{
-"title": "Out of the Ether",
-"author": "Matthew Leising",
-"cover": "images/out of the ether.jpeg",
-"badge": "❤",
-"review": "Captures the wild west days of early Ethereum, when teenage Vitalik and his crew of cypherpunks, academics, and dreamers accidentally built a world-changing platform held together by duct tape and vibes. The DAO hack becomes the dramatic centerpiece, but the real story is why so many believed in this nascent, stressful, borderline-breaking system. A fantastic snapshot of a moment where the future nearly ate itself."
-},
-{
-"title": "Slade House",
-"author": "David Mitchell",
-"isbn": "9780812988079",
-"badge": null,
-"review": "Haunted house story that’s less jump-scares and more slow-burn dread that gets under your skin. Episodic structure, with each section jumping forward in time but always returning to the same cursed home. You know something awful is coming for each new character who stumbles in, but the way it unfolds still manages to be both inventive and chilling. A little literary horror snack that doesn’t overstay its welcome."
-},
-{
-"title": "Comfort Crisis",
-"author": "Michael Easter",
-"isbn": "9780593138762",
-"badge": "❤",
-"review": "One of the only books in the "get uncomfortable" genre that doesn’t feel like it’s yelling at you. Surprisingly soulful for a book that also talks about hauling dead animals uphill. Blends endurance-sports war stories, evolutionary psych, and just-enough bro science to sell you on voluntary hardship without slipping into #grindset cosplay."
-},
-{
-"title": "Disrupting the Game",
-"author": "Reggie Fils-Aimé",
-"isbn": "1400237696",
-"badge": null,
-"review": "Most PowerPoint-voice ahhhh memoir I’ve read in a long time. The prose is dry, the metaphors are corporate, and yet… the message lands. Former President of Nintendo writes like he’s still on stage at E3, pitching "strategic alignment" with the kind of charisma that only works if you really believe the mission. There’s a kind of square sincerity here that feels almost radical now. The advice can seem corny but it’s true -- take ownership, prepare obsessively, navigate politics without losing your soul."
-},
-{
-"title": "Abundance",
-"author": "Ezra Klein & Derek Thompson",
-"isbn": "9781668023488",
-"badge": "❤",
-"review": "Critique of both America’s political system and self-imposed scarcity crisis that (in my opinion) transcends typical partisan framing. Less a policy book and more a systems debugging manual for a country choking on its own red tape. The vibe throughout is "what if we stopped trying to fix things by drowning them in paperwork?" Nails how bureaucracy chokes innovation in the name of oversight, creating a vetocracy that strangles progress in the name of protecting process. The book’s diagnosis is brutal and compelling: we haven’t run out of ideas, we’ve just made it nearly impossible to act on them."
-},
-{
-"title": "The Good Man Jesus and the Scoundrel Christ",
-"author": "Philip Pullman",
-"isbn": "9780802145390",
-"badge": "❤",
-"review": "Pullman pulls off a wild thought experiment by splitting the gospel story into twin characters: Jesus the radical truth-teller vs. Christ the legacy-obsessed pragmatist. What starts as a seemingly clear moral division gets murky as Christ’s "reasonable" compromises and edits morph from well-intentioned preservation into something darker. The critique lands because it’s not anti-spirituality but anti-institution -- showing exactly how revolutionary messages get packaged into dogma through well-intentioned compromise."
-},
-{
-"title": "The Book of Strange New Things",
-"author": "Michel Faber",
-"isbn": "9780553418866",
-"badge": "❤",
-"review": "Missionary sci-fi that starts as a simmer and ends up a gut-wrenching meditation on faith, distance, and what it means to be human. Less about the weirdly chill aliens and more about how theological frameworks collapse when confronted with real suffering. The author weaponizes religious language to show how quickly scripture can transform from comfort to existential abandonment. Bleak but never cynical. Perfect for anyone who likes their sci-fi introspective and their theology a little bruised."
-},
-{
-"title": "Boom",
-"author": "Byrne Hobart & Tobias Huber",
-"isbn": "9781953953476",
-"badge": "★",
-"review": "Crucial manifesto against stagnation that reframes the value of bubbles as generative forces rather than just destructive ones. The Apollo program was a bubble, Bitcoin was a bubble, even Xerox PARC was a bubble. Nails how self-reinforcing optimism creates futures that couldn’t exist without collective delusion first. Best insight: truly transformative tech never appears as "5% better" versions of existing stuff. Cars weren’t better horses, and crypto isn’t just banking with extra steps. Essential for understanding why sometimes you need irrational exuberance to build anything worth building."
-},
-{
-"title": "All Systems Red",
-"author": "Martha Wells",
-"isbn": "9780765397539",
-"badge": null,
-"review": "Solid entry in the "what if robots had anxiety too" genre that doesn’t take itself too seriously. Nothing groundbreaking plot-wise but the novella format keeps it tight without unnecessary filler. Enjoyed the corporate dystopia backdrop that’s just assumed rather than explained at length. A great setting for a security bot with anxiety who’d rather watch entertainment feeds than deal with humans."
-},
-{
-"title": "Becoming Los Angeles",
-"author": "D.J. Waldie",
-"cover": "images/becoming los angeles.jpeg",
-"badge": "★",
-"review": "Perfect prose meditation on LA as both mythscape and reality. Waldie’s essays connect fake laurel trees to aerospace workers to homeless crises with rare compassion and haunting clarity. Maps the city’s cultural patchwork brilliantly -- from Okies reshaping suburbs to hippies nestled in Laurel Canyon, all orbiting the same sun but living different realities. The nostalgia-laced writing on "memetic architecture" (those giant donuts and derby-shaped diners) mourns the playful buildings that made LA feel like a dream before glass boxes replaced them. Essential for understanding a city that never stops turning into something else."
-},
-{
-"title": "The Technological Republic",
-"author": "Alex Karp & Nicholas Zamiska",
-"isbn": "9780593798690",
-"badge": null,
-"review": "Nails how tech lost its hard-edge building instinct to chase engagement metrics and shareholder value, but the book loses me blaming 60s counterculture for everything without asking why young people might have legitimate reasons to distrust institutions. Raises the right question (why isn’t American tech building for national advantage?) but sidesteps the thorny answers. Best read as a tech history crash course and provocation, not a complete roadmap."
-},
-{
-"title": "Status and Culture",
-"author": "W. David Marx",
-"isbn": "9780593296714",
-"badge": null,
-"review": "Slow burn sociological analysis that rewards patience once you get past the academic first half. Explores how status-seeking shapes everything from music careers to fashion trends with just the right mix of theory and examples. Particularly enjoyed the section about gourmet cupcakes as status theory: something meaningless becomes a status marker, gets oversaturated, then becomes equally meaningless to care about at all. Perfect encapsulation of how cultural cycles work. Surprisingly neutral on NFTs."
-},
-{
-"title": "The Nvidia Way",
-"author": "Tae Kim",
-"cover": "images/nvidiaway.jpg",
-"badge": "❤",
-"review": "Corporate biography that only gets good when Nvidia itself starts winning. Nothing remarkable until you hit the hardcore culture anecdotes -- Jensen telling teams "second place is first loser" and starting each day telling himself "You suck" in the mirror. Wild stuff about engineers staying late every night because they were legitimately obsessed with "killing Intel." Dollar bonuses that somehow motivated people more than actual money would have. Ultimate case study in how a slightly toxic, heavily driven culture can create a trillion-dollar juggernaut."
-},
-{
-"title": "Martyr!",
-"author": "Kaveh Akbar",
-"isbn": "9781035026081",
-"badge": "❤",
-"review": "Fever dream quest of an Iranian-American poet making his way through addiction and identity crisis. Goes places most immigrant narratives don’t (religious obsession!) without ever feeling like trauma tourism. Nonlinear structure mirrors the protagonist’s fractured sense of self. Think Rushdie energy but with gen-z disillusionment."
-},
-{
-"title": "The Old Man and the Gun",
-"author": "David Grann",
-"cover": "images/oldmangun.jpg",
-"badge": null,
-"review": "Three true crime pieces: an elderly serial bank robber who escaped prison 16 times, a polish author who blurred fact and fiction until the cops got involved, and a French impostor who stole the identity of a missing Texas teen. Breezy airport reading, but in a good way."
-},
-{
-"title": "House of Earth",
-"author": "Woody Guthrie",
-"isbn": "9780062248398",
-"badge": "❤",
-"review": "Folk legend’s lost novel, a story about a poor Texas couple trying to build an adobe house that becomes a meditation on systemic poverty, hope, and human desire. Hits hard with a raw mix of political rage and erotic energy that somehow works? Think Steinbeck but hornier. Guthrie understood greed as a societal disease in a way that makes you realize ‘This Land Is Your Land’ was actually kinda punk."
-},
-{
-"title": "Leadership in War",
-"author": "Andrew Roberts",
-"isbn": "9780525522386",
-"badge": "❤",
-"review": "Perfect balance of military history and leadership psychology without getting too "here’s what CEOs can learn from Churchill" about it. Roberts shows how leaders built real trust with troops with some great examples, like Napoleon giving away his own medals to troops mid-battle. Best bits are about how these leaders weaponized their own Ls into comeback fuel, and the book ends with a great insight about how true leadership is basically redistributed main character energy."
-},
-{
-"title": "The Age of Wood",
-"author": "Roland Ennos",
-"isbn": "1982159308",
-"badge": null,
-"review": "Ambitious attempt to frame all of human history through the lens of wood, but suffers from the ‘this should have been an essay’ problem. Some genuinely fascinating ideas buried in here about humanity, like how losing our hair (thanks, fleas!) might have kickstarted human innovation by forcing us to actually think about adapting. Worth skimming for the insights, but could’ve been half as long."
-},
-{
-"title": "Pronto",
-"author": "Elmore Leonard",
-"isbn": "0440214432",
-"badge": null,
-"review": "Crime fiction that’s more about the characters than the crimes. Love how Leonard treats crime as just another job where people happen to shoot each other occasionally. Great showcase of how to write characters who are smart enough to be interesting but dumb enough to get into trouble."
-},
-{
-"title": "Enemy of All Mankind",
-"author": "Steven Johnson",
-"isbn": "9780735211605",
-"badge": null,
-"review": "A clearheaded take on piracy that strips away the romanticized Robin Hood myths while still showing how outlaws shaped global commerce. Follows Henry Every’s infamous heist to explore how pirates were both criminals and, incidentally, innovators who created parallel economies when locked out of official ones (sound familiar?). Johnson’s got a gift for making historical economics hit like a thriller. Great book for understanding why "unofficial" economies keep emerging."
-},
-{
-"title": "The Battle for Your Brain",
-"author": "Nita Farahany",
-"isbn": "9781250272959",
-"badge": "❤",
-"review": "Wake-up call about neurotech that no one seems to be taking seriously enough. Opens with a workplace dystopia that’s way closer than you think--imagine your brainwave data getting subpoenaed by your employer. Author brings personal stakes (migraines + severe PTSD) that make you realize why we can’t just say no to this tech, but between intrusive surveillance, state control, and straight-up weaponization (Havana Syndrome is probably real btw), we’re sleepwalking into a future where our thoughts aren’t our own. The rare doomer book that’s not just typical tech panic lit."
-},
-{
-"title": "22 Immutable Laws of Marketing",
-"author": "Al Ries & Jack Trout",
-"isbn": "9780887306662",
-"badge": "❤",
-"review": "Marketing bible that still hits after 30+ years (minus some hilariously wrong predictions). Core insight is true: Being first > being better, and perception > reality. Good framework about how people organize brands as mental "ladders" and why there’s usually only room for two real competitors per category. God-tier advice about when to create new categories vs going head-to-head."
-},
-{
-"title": "Wise Blood",
-"author": "Flannery O’Connor",
-"isbn": "9780374530631",
-"badge": "❤",
-"review": "Goes hard on religious obsession. At its core, this is about how fighting against something can just show how deeply it owns you. Full of grotesque characters and surreal situations that somehow feel more real than realism. Makes you question if historical Jesus would’ve been as disturbed by Paul’s church-building as Hazel is by his imitators. Brutal but weirdly beautiful."
-},
-{
-"title": "Play Nice",
-"author": "Jason Schreier",
-"isbn": "9781538725429",
-"badge": "❤",
-"review": "Jason Schreier continues to be the GOAT at turning game industry drama into can’t-put-it-down narratives. Fascinating look at how Blizzard built an empire not by inventing genres but by perfecting them. Great chapter on how StarCraft was initially a failure and totally reworked, which shows it’s never too late to throw out something mediocre and start fresh -- but ultimately this is a cautionary tale about what happens when corporate structure chokes out creativity."
-}
-],
-"2026": [
-{
+  "2023": [
+    {
+      "title": "Plainsong",
+      "author": "Kent Haruf",
+      "cover": "images/plainsong.jpeg",
+      "badge": "❤",
+      "review": "The struggles of ordinary people told through spare yet stirring prose. A pastoral portrait of small-town life. A tender exploration of the hardships and hopes of interconnected souls in a fading rural community."
+    },
+    {
+      "title": "Politigram and the Post Left",
+      "author": "Joshua Citarella",
+      "isbn": 9781006610196,
+      "badge": "❤",
+      "review": "An avant garde exploration into the evolving landscape of political ideology in the age of social media. My favorite pages are just screenshots of Discord, more books should have this."
+    },
+    {
+      "title": "Excellent Advice for Living",
+      "author": "Kevin Kelly",
+      "isbn": "9780593654521",
+      "badge": null,
+      "review": "Endearing life wisdom told through witty aphorisms and earnest encouragements of curiosity, presence, and embracing the texture of everyday experience. Nice to have on your desk to pick up and read a page or two from time to time."
+    },
+    {
+      "title": "Extremely Online",
+      "author": "Taylor Lorenz",
+      "isbn": "9781982146863",
+      "badge": "❤",
+      "review": "Compelling case for how the internet has evolved, challenging the conventional notion of a web shaped predominantly by venture capitalists and social media gurus and instead showcasing how the true architects of internet culture are the often-overlooked figures: mommy bloggers, savvy teens, and ordinary individuals who mastered the art of seizing the zeitgeist. A retrospective of the last two decades of internet history."
+    },
+    {
+      "title": "Elon Musk",
+      "author": "Walter Isaacson",
+      "isbn": "9781982181284",
+      "badge": "❤",
+      "review": "About a person in relentless motion, flitting from one venture to the next: SpaceX, Tesla, The Boring Company, Neuralink, SolarCity, and now Twitter/X along with xAI. His life seems less like a series of calculated steps and more like an impromptu series of decisions to make big gambles and go all in. An exploration of who is actually behind the public persona, demented by a vision that's always a few steps ahead of reality."
+    },
+    {
+      "title": "The Road Not Taken",
+      "author": "Harry Turtledove",
+      "cover": "images/the road not taken.jpeg",
+      "badge": "❤",
+      "review": "An alternate reality that imagines the consequences of spacefaring civilizations that learn how to travel at light speed before they gain other technologies, while we remain earthbound but develop a tech tree of an entirely different sort. A compelling tale of war, power, and the contingencies of history."
+    },
+    {
+      "title": "Creative Types",
+      "author": "Tom Bissell",
+      "isbn": "152474915X",
+      "badge": "❤",
+      "review": "Told with disarming honesty, a reflection on the challenges of the creative life told through a series of charming stories, fictional, real, and somewhere in-between."
+    },
+    {
+      "title": "Software for Artists Book",
+      "author": "Various",
+      "cover": "images/software for artists.jpeg",
+      "badge": "❤",
+      "review": "Brings together a diverse range of voices and perspectives, each contributing to a broader conversation about creativity, digital tools, and the internet's role in reshaping art. Its exploratory nature (and expert editing) makes it a valuable resource for artists, technologists, and anyone interested in the intersection of art and digital culture."
+    },
+    {
+      "title": "Train Dreams",
+      "author": "Denis Johnson",
+      "isbn": "9781250007650",
+      "badge": "❤",
+      "review": "A haunting novella told with prose as sparse and striking as the American West it depicts."
+    },
+    {
+      "title": "Make Something Wonderful",
+      "author": "Steve Jobs",
+      "cover": "images/make something wonderful.jpeg",
+      "badge": null,
+      "review": "Though hagiographic at times, many of the collected speeches here are as inspiring as ever."
+    },
+    {
+      "title": "In The Stacks",
+      "author": "Robin Sloan",
+      "cover": "images/in the stacks.jpeg",
+      "badge": null,
+      "review": "An enchanting love letter to libraries and maker culture. Worth experiencing on the site it was published on, if only to enjoy the synthesizer built into both the book and the page itself."
+    },
+    {
+      "title": "Cribsheet",
+      "author": "Emily Oster",
+      "isbn": "9780525559276",
+      "badge": "❤",
+      "review": "A data-driven parenting guide that was the most helpful of all books I read while waiting for Luna to arrive. I consider this my only 'must-read' for anyone expecting a baby."
+    },
+    {
+      "title": "Precious Little Sleep",
+      "author": "Alexis Dubief",
+      "isbn": "9780997580808",
+      "badge": null,
+      "review": "Though well-intentioned, this sleep training manual adopts a prescriptive, one-size-fits-all approach that fails to appreciate how individual temperaments require nurturing over rigidity. We sleep trained (and are thankful that we did it) but I didn't find much help within these pages."
+    },
+    {
+      "title": "Bringing Up Bébé",
+      "author": "Pamela Druckerman",
+      "isbn": "9780143122968",
+      "badge": null,
+      "review": "Attempts to distill the essence of French parenting into a digestible guide, but it ends up romanticizing and oversimplifying a complex cultural phenomenon. Peppered with personal anecdotes that aim to charm but often detract from the credibility and universality of the advice."
+    },
+    {
+      "title": "Happiest Baby on the Block",
+      "author": "Harvey Karp",
+      "isbn": "9780553393231",
+      "badge": null,
+      "review": "While the techniques for soothing fussy infants has merit, this book often oversells this branded method as a panacea while diminishing parents' intuitive wisdom. Repetitive and overly simplistic advice offers more dogma than practical, adaptable solutions."
+    },
+    {
+      "title": "Milk!",
+      "author": "Mark Kurlansky",
+      "cover": "images/milk.jpeg",
+      "badge": "❤",
+      "review": "Culinary history can be so interesting! A book on how milk has shaped culture, cuisine, and civilization itself. A deeply researched yet highly readable account."
+    },
+    {
+      "title": "The President Has Been Shot!",
+      "author": "James L. Swanson",
+      "isbn": "9780545490078",
+      "badge": null,
+      "review": "Listened to this as an audiobook because it was read by my favorite narrator, Will Patton. A well-researched version of this tragedy told through moment-by-moment storytelling."
+    },
+    {
+      "title": "Illusions II",
+      "author": "Richard Bach",
+      "isbn": "1495345017",
+      "badge": null,
+      "review": "Overwrought sequel that sadly lacks the charm of the original. Attempting to recapture the magic of his earlier works, this book lacks the originality and depth that charmed me so much the first time around."
+    },
+    {
+      "title": "Cooking at Home",
+      "author": "David Chang & Priya Krishna",
+      "isbn": "9781524759247",
+      "badge": null,
+      "review": "An accessible home cooking guide from the Momofuku chef that strangely centers around the microwave — but I found it helpful to remember that this tool I have in the kitchen isn't meant to be relegated to thawing frozen dinners."
+    },
+    {
+      "title": "WARHOLCAPOTE",
+      "author": "Rob Roth",
+      "isbn": "9781982103842",
+      "badge": null,
+      "review": "A 'non-fiction invention', this imaginative novel turns scattered tape recordings of Warhol and Capote into an actual play. An atmospheric celebration of New York's midcentury cultural renaissance, perhaps best experienced as an audiobook."
+    }
+  ],
+  "2024": [
+    {
+      "title": "Days at the Morisaki Bookshop",
+      "author": "Satoshi Yagisawa",
+      "isbn": "9780063278677",
+      "badge": "❤",
+      "review": "Cozy Japanese bookstore slice-of-life that hits that perfect sweet spot between \"nothing happens\" and \"everything matters.\" Sometimes healing is just vibing with old books and weird regulars. Will make you want to open a bookstore."
+    },
+    {
+      "title": "When We Cease to Understand the World",
+      "author": "Benjamín Labatut",
+      "isbn": "9781681375663",
+      "badge": null,
+      "review": "Traces how breakthrough moments in physics and math drove their discoverers literally insane. Blurs the line between fact and fiction until you're not sure what's real anymore, which is probably the point. Worked with some characters better than others. The chapter on Turing was one of my favorites."
+    },
+    {
+      "title": "Moonwalking with Einstein",
+      "author": "Joshua Foer",
+      "isbn": "9780143120537",
+      "badge": "❤",
+      "review": "Peak guy-spends-a-year-doing-something book but ACTUALLY delivers. Starts as an investigation into memory champions then morphs into a quest to become one. Especially interesting take on how Fitts' three stages of learning (cognitive → associative → autonomous) apply to literally everything from typing to remembering Shakespeare."
+    },
+    {
+      "title": "Life in the Negative World",
+      "author": "Aaron M. Renn",
+      "cover": "images/life in the negative world.jpg",
+      "badge": null,
+      "review": "Cultural analysis that starts strong but gets kinda mid. Maps a \"positive to neutral to negative\" framework onto American Christianity's declining social capital. Some fascinating bits about Quaker business ethics and how male influencers filled the vacuum left by institutional Christianity's retreat from offering clear guidance to men. Unfortunately devolves into giving Christians advice about antifragility and FIRE to avoid cancelation. Some good stuff about institutional decay but reads like premium Substack content stretched to book length."
+    },
+    {
+      "title": "The Conservative Futurist",
+      "author": "James Pethokoukis",
+      "isbn": "9781546005544",
+      "badge": "❤",
+      "review": "Peak tech optimism meets policy realism. Makes the case that innovation requires both having the right cultural mindset and institutional support — neither of which we currently have much of. Great takedown of \"we've peaked\" doomerism via historical examples of innovation pessimists getting bodied by reality. Strong on diagnosing why progress has slowed (spoiler: it's the institutions) even if some of the prescriptions feel a bit think-tanky."
+    },
+    {
+      "title": "In Praise of Shadows",
+      "author": "Jun'ichirō Tanizaki",
+      "isbn": "9780918172020",
+      "badge": null,
+      "review": "A poetic rumination on traditional aesthetics, extolling the beauty of shadows and darkened spaces. Frankly, it didn't land with me, but it's fun to read about light and mood from someone who clearly cares about this subject more than anything else."
+    },
+    {
+      "title": "Humanly Possible",
+      "author": "Sarah Bakewell",
+      "isbn": "1784745170",
+      "badge": "❤",
+      "review": "Seven centuries of humanist thought woven together with Bakewell's characteristic grace. If you've read her on Montaigne, you know the deal — she makes philosophical history feel like catching up with old friends. A good case for why this worldview has remained so resilient, even in the face of fanaticism and tyranny."
+    },
+    {
+      "title": "The Orchid Thief",
+      "author": "Susan Orlean",
+      "isbn": "9780449003718",
+      "badge": "❤",
+      "review": "Sublime character study disguised as plant journalism. Uses Florida's orchid-obsessed subculture to explore how passion morphs into obsession. The kind of narrative that makes you realize every niche contains an entire universe."
+    },
+    {
+      "title": "The Perfect Thing",
+      "author": "Steven Levy",
+      "isbn": "9780743285230",
+      "badge": null,
+      "review": "Reading this 2006 iPod history in 2024 feels like archeology. Fascinating time capsule of Tech's Cambrian explosion, but written too early to capture how profoundly digital music would reshape culture. Best parts are the Jobs anecdotes — pure Steve behavior throughout."
+    },
+    {
+      "title": "Blood, Sweat, and Pixels",
+      "author": "Jason Schreier",
+      "cover": "images/bloodsweat.jpg",
+      "badge": "❤",
+      "review": "Peak games journalism. Each chapter is a war story from the gaming industry's front lines, laying bare both the creative triumph and human cost of your favorite titles. Pours one out for Star Wars 1313 while explaining exactly why your favorite studio keeps imploding."
+    },
+    {
+      "title": "The Everything Token",
+      "author": "Steve Kaczynski & Scott Kominers",
+      "cover": "images/everythingtoken.jpg",
+      "badge": "❤",
+      "review": "An excellent primer on the transformative potential of an onchain future. Maps out the \"NFT staircase\" with crystal clarity — from basic collectibles to full community infrastructure. A thought-provoking exploration of how new systems can reshape our relationship with digital goods and communities."
+    },
+    {
+      "title": "Press Reset",
+      "author": "Jason Schreier",
+      "isbn": "9781538735480",
+      "badge": "❤",
+      "review": "The darker sequel to Blood, Sweat, and Pixels. Trades insular development drama for an industry-wide existential crisis. Chronicles the human cost of treating creative work like quarterly numbers. Will make you think twice about preordering games from unstable studios while candidly revealing the human toll behind the games we play."
+    },
+    {
+      "title": "Sid Meier's Memoir!",
+      "author": "Sid Meier",
+      "isbn": "9781324005872",
+      "badge": "❤",
+      "review": "The GOAT of strategy games turns out to be exactly who you hoped — just a chill dude who loves making fun systems. Less a memoir than a master class in game design philosophy. Pure joy for anyone who's ever lost a weekend to \"one more turn.\""
+    },
+    {
+      "title": "The White Darkness",
+      "author": "David Grann",
+      "isbn": "038554457X",
+      "badge": "❤",
+      "review": "Takes Antarctic exploration — already fascinating — and turns it into a psychological thriller about humanity's need to push limits. Weaves together the tale of Henry Worsley's modern-day expeditions with the larger history of polar adventure. The kind of narrative that makes you grateful to be reading about it rather than living it."
+    },
+    {
+      "title": "Creative Selection",
+      "author": "Ken Kocienda",
+      "isbn": "9781250194466",
+      "badge": "❤",
+      "review": "Inside baseball from Apple's golden era. Yes, there's some Jobs worship, but the real value is in the nitty-gritty of how Apple's obsession with details created the iPhone's groundbreaking UX. Read it for the keyboard war stories alone."
+    },
+    {
+      "title": "Some Remarks",
+      "author": "Neal Stephenson",
+      "isbn": "9780062024442",
+      "badge": null,
+      "review": "An anthology of Neal Stephenson's essays and interviews from across his long career, but a bit of a letdown. An uneven collection that opens with a desk review. Yes, really. Skip unless you're a hardcore Stephenson completionist. Even then, maybe just read Snow Crash again instead."
+    },
+    {
+      "title": "Unreasonable Hospitality",
+      "author": "Will Guidara",
+      "isbn": "9780593418574",
+      "badge": "❤",
+      "review": "Eleven Madison Park's secret sauce revealed: Treating hospitality as a radical act. Perfect blend of high-end restaurant drama and applicable wisdom. Makes you want to revolutionize customer service, no matter your industry."
+    },
+    {
+      "title": "Soul Boom",
+      "author": "Rainn Wilson",
+      "isbn": "9780306828270",
+      "badge": null,
+      "review": "Wilson (yes, Dwight from The Office) gives us a popcorn spirituality book that actually works. Approaches big questions with humor and humility instead of preachiness. Not groundbreaking, but surprisingly engaging."
+    },
+    {
+      "title": "Filterworld",
+      "author": "Kyle Chayka",
+      "isbn": "9780385548281",
+      "badge": null,
+      "review": "How algorithms and digital filters shape our perception of reality, influencing everything from our social interactions to our consumption habits. In my opinion, this already feels dated. Tries to examine algorithmic culture but ends up reading like a time capsule from 2020."
+    },
+    {
+      "title": "Co-Intelligence",
+      "author": "Ethan Mollick",
+      "isbn": "9780753560778",
+      "badge": null,
+      "review": "Explores collective intelligence and decision-making. Sometimes gets lost in its own framework but occasionally surfaces for brilliant insights about collective decision-making. Worth skimming for the gems."
+    },
+    {
+      "title": "Supercommunicators",
+      "author": "Charles Duhigg",
+      "isbn": "9780593243916",
+      "badge": "❤",
+      "review": "Rare business book that delivers immediate value instead of just repackaging common sense. The author's emphasis on turning negotiations into collaborations by asking open-ended questions is insightful. As Oscar Wilde said, \"Ultimately the bond of all companionship, whether in marriage or in friendship, is conversation\" — and this book gives you the tools to forge those bonds."
+    },
+    {
+      "title": "Build",
+      "author": "Tony Fadell",
+      "isbn": "9781787634107",
+      "badge": "❤",
+      "review": "An insider account of building revolutionary products at Apple and Nest, offering valuable lessons on innovation, leadership, and design thinking. Brutal honesty from someone who's seen both sides of Silicon Valley success. The fact that Fadell's exits were messy makes his insights way more valuable than typical tech leader victory laps. Real talk about what innovation actually costs."
+    },
+    {
+      "title": "Evil Robots, Killer Computers",
+      "author": "Steven Shwartz",
+      "cover": "images/evilrobots.jpg",
+      "badge": null,
+      "review": "A relatively level-headed look at AI and robotics, offering a balanced view of the future of technology. If you know someone worried about the AIpocolypse, this acts as a helpful response."
+    },
+    {
+      "title": "The Soul of a New Machine",
+      "author": "Tracy Kidder",
+      "isbn": "9780316491709",
+      "badge": null,
+      "review": "An account of the early days of the computer, capturing the passion and pressure behind technological innovation — but unfortunately written just before the true revolution of the personal computer actually happened."
+    },
+    {
+      "title": "The Demon of Unrest",
+      "author": "Erik Larson",
+      "isbn": "9780385348744",
+      "badge": "❤",
+      "review": "A vivid historical account that brings to life a pivotal moment in American history, examining the tensions and personalities that led to the Civil War."
+    },
+    {
+      "title": "The True Believer",
+      "author": "Eric Hoffer",
+      "isbn": "9780060505912",
+      "badge": "❤",
+      "review": "A classic study of mass movements remains as relevant as ever, offering insights into the psychology of fanaticism and the appeal of extreme ideologies."
+    },
+    {
+      "title": "Wild Problems",
+      "author": "Russ Roberts",
+      "cover": "images/wildproblems.jpg",
+      "badge": null,
+      "review": "A stimulating examination of life's biggest decisions that sometimes gets lost in its own abstractions. Roberts makes a compelling case for embracing uncertainty and following our intuition when faced with choices that can't be easily quantified. While his economic lens offers fresh insights, the book occasionally veers into overly academic territory."
+    },
+    {
+      "title": "Good Strategy Bad Strategy",
+      "author": "Richard Rumelt",
+      "isbn": "9780307886231",
+      "badge": null,
+      "review": "Worth it just for the revelation that most \"strategies\" are just goals with vibes. Actually teaches you how to think strategically instead of just collecting frameworks, and reminds you that having a real strategy at all elevates you above the majority of businesses and leaders that operate without one."
+    },
+    {
+      "title": "Little Lyell Machines",
+      "author": "Kirsten Bevin",
+      "cover": "images/littlelyell.jpg",
+      "badge": "❤",
+      "review": "A wonderful book connecting an onchain project to a very real place on this earth. I love it when the digital and the physical connects."
+    },
+    {
+      "title": "Pops",
+      "author": "Michael Chabon",
+      "isbn": "0062851128",
+      "badge": null,
+      "review": "A heartfelt ode to fatherhood that brims with warmth. The essay on taking his fashion-obsessed son to Paris Fashion Week is a standout, capturing the tender fumbling of a dad trying to connect with and support his child's passion."
+    },
+    {
+      "title": "The Contrarian",
+      "author": "Max Chafkin",
+      "cover": "images/thecontrarian.jpg",
+      "badge": null,
+      "review": "Easily my least favorite book I read all year. While thorough in accumulating details, Chafkin seems more interested in dunking on Thiel than actually understanding what makes him tick. Feels like reading a narrative from someone who already made up their mind before they even began."
+    },
+    {
+      "title": "The Discoverers",
+      "author": "Daniel Boorstin",
+      "isbn": "9780394726250",
+      "badge": null,
+      "review": "A sweeping survey of human innovation that's the equivalent of the type of film a substitute teacher puts on in class — and I mean that as a compliment. An inspiring, if shallow, chronicle of mankind's quest for knowledge."
+    },
+    {
+      "title": "The Bookshop",
+      "author": "Evan Friss",
+      "isbn": "0593299922",
+      "badge": null,
+      "review": "A disappointing attempt to chronicle the American bookstore. Even with such rich source material, it manages to make the history of bookselling feel tedious. One of the few books this year I had to force myself to finish."
+    },
+    {
+      "title": "Most Dangerous Man in America",
+      "author": "Bill Minutaglio & Steven L. Davis",
+      "cover": "images/mostdangerousman.jpg",
+      "badge": "❤",
+      "review": "A riveting chronicle of Timothy Leary's wild adventures as a counterculture icon on the run, weaving together FBI records, interviews, and vivid storytelling to transport readers into a bygone era of cultural upheaval under a drug revolution and Richard Nixon's presidency. Meticulously researched yet reads like a thriller."
+    },
+    {
+      "title": "Prepare to Meet Thy Doom",
+      "author": "David Kushner",
+      "isbn": "1943499845",
+      "badge": null,
+      "review": "A scattershot collection of video game history that never quite levels up to its potential, or its predecessor, Masters of Doom. Kushner's enthusiasm for the subject shines through, but while some essays offer intriguing glimpses into gaming's past, others feel disjointed and half-finished."
+    },
+    {
+      "title": "First Principles",
+      "author": "Thomas E. Ricks",
+      "isbn": "9780062997463",
+      "badge": null,
+      "review": "Tries to connect the Founders to classical philosophy but gets distracted comparing them to modernity. Interesting premise, mid execution."
+    },
+    {
+      "title": "California: Designing Freedom",
+      "author": "Justin McGuirk",
+      "isbn": "9780714873527",
+      "badge": "❤",
+      "review": "A look at how California's culture of innovation and individualism shaped modern design and technology. The connections drawn between counterculture movements and Silicon Valley's ethos are illuminating. Bonus points for including Jobs' best speech with a preface by Jony Ive."
+    },
+    {
+      "title": "City at the Edge of Forever",
+      "author": "Peter Lunenfeld",
+      "cover": "images/edgeofforever.jpg",
+      "badge": "❤",
+      "review": "A kaleidoscopic history of Los Angeles as a place always one-foot into the future. Gets how immigrant creativity and outsider art shaped the city's identity. Required reading for understanding why LA keeps reinventing itself."
+    },
+    {
+      "title": "Little Red Book",
+      "author": "Facebook",
+      "cover": "images/littlered.jpg",
+      "badge": "❤",
+      "review": "Facebook's internal design manifesto, originally given only to employees. Fascinating look at how companies try to scale vibes."
+    },
+    {
+      "title": "Butcher's Crossing",
+      "author": "John Williams",
+      "isbn": "9781590171981",
+      "badge": "❤",
+      "review": "Harvard kid learns about \"authenticity\" the hard way in 1870s frontier America. Perfect takedown of everyone who thinks they'll find themselves in the wilderness. Brutal in all the right ways."
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "isbn": "9780525559474",
+      "badge": "❤",
+      "review": "A poignant and imaginative story about the choices we make in life, offering a hopeful message about second chances and the power of perspective."
+    },
+    {
+      "title": "Cosmopolis",
+      "author": "Don DeLillo",
+      "isbn": "9780743244251",
+      "badge": "❤",
+      "review": "Late capitalism critique set mostly in a billionaire's limo. Weird AF but that's the point. DeLillo understood tech bros before they existed."
+    },
+    {
+      "title": "Eventide",
+      "author": "Kent Haruf",
+      "isbn": "0330433717",
+      "badge": "❤",
+      "review": "Small town Colorado lives rendered with perfect precision. Makes ordinary drama feel epic without trying too hard. Perfect book for realizing life is actually about small moments."
+    },
+    {
+      "title": "The Illustrated Man",
+      "author": "Ray Bradbury",
+      "isbn": "9781451678185",
+      "badge": "❤",
+      "review": "A series of short stories which showcases why Bradbury was one of the best to ever do it. I would rank 'The Veldt' as one of my favorite pieces of fiction of all time, just because it's such a perfect capsule of fiction."
+    },
+    {
+      "title": "The Flame",
+      "author": "Leonard Cohen",
+      "cover": "images/theflame.jpg",
+      "badge": null,
+      "review": "A posthumous collection of Leonard Cohen's poetry and lyrics, offering a final glimpse into the mind of the musician. I have never been too big of a Cohen fan, but this ultimately made me like him."
+    },
+    {
+      "title": "Dune Messiah",
+      "author": "Frank Herbert",
+      "isbn": "9780593098233",
+      "badge": "❤",
+      "review": "Read this right after Dune, and it pulls my favorite trick for a sequel, subverting the hero's journey entirely to explore the consequences of power and prophecy."
+    },
+    {
+      "title": "Sea of Tranquility",
+      "author": "Emily St. John Mandel",
+      "isbn": "9780593321447",
+      "badge": "❤",
+      "review": "A time-bending novel weaves together multiple storylines across centuries, exploring themes of art, love, and the nature of reality. Pretty cozy."
+    },
+    {
+      "title": "The Stars at Noon",
+      "author": "Denis Johnson",
+      "cover": "images/stars at noon.jpeg",
+      "badge": "❤",
+      "review": "Fever dream thriller in revolutionary Nicaragua following an American woman caught in a web of espionage. Makes you feel sticky just reading it."
+    },
+    {
+      "title": "The Passenger",
+      "author": "Cormac McCarthy",
+      "isbn": "9780307268990",
+      "badge": "❤",
+      "review": "McCarthy goes full quantum mechanics and somehow pulls it off. The sparse yet poetic prose cuts to the bone, weaving a tale of guilt, grief, and the search for meaning. The protagonist's philosophical musings and encounters with an eccentric cast of characters create a dreamlike atmosphere that lingers long after the final page."
+    },
+    {
+      "title": "Stella Maris",
+      "author": "Cormac McCarthy",
+      "isbn": "9780593663561",
+      "badge": null,
+      "review": "A haunting companion piece to \"The Passenger,\" delving deeper into the troubled psyche of the protagonist's sister through a series of psychiatric sessions."
+    },
+    {
+      "title": "Babel",
+      "author": "R.F. Kuang",
+      "isbn": "9780063021426",
+      "badge": "❤",
+      "review": "Dark academia meets colonialism critique but make it about silver and translation magic. The Oxford parts are so cozy you wish the plot would never start."
+    },
+    {
+      "title": "Trust",
+      "author": "Hernan Diaz",
+      "isbn": "9780593420317",
+      "badge": null,
+      "review": "Tries to Rashomon the unreliable narrator concept but doesn't quite stick the landing. Clever structure in search of a point. Respect the attempt though."
+    },
+    {
+      "title": "We the Animals",
+      "author": "Justin Torres",
+      "isbn": "9780547576725",
+      "badge": null,
+      "review": "A raw, poetic coming-of-age story that pulses with feral energy. Torres captures the wild rhythms of childhood and the jagged edges of family bonds with lyrical prose that veers between beauty and brutality."
+    },
+    {
+      "title": "Shutter Island",
+      "author": "Dennis Lehane",
+      "isbn": "3257243359",
+      "badge": "❤",
+      "review": "Blueprint so solid Scorsese basically just filmed the book. Psychological thriller that earns its twists. Read it even if you've seen the movie."
+    },
+    {
+      "title": "Caught Stealing",
+      "author": "Charlie Huston",
+      "isbn": "9780345464781",
+      "badge": "❤",
+      "review": "Evokes the spirit of 'The Long Goodbye' — both protagonists share a certain reluctant cynicism, drawn into danger more by circumstance than by choice. Hank Thompson, like Philip Marlowe, is just trying to maintain his sense of morality while the world around him descends into chaos. Great noir."
+    },
+    {
+      "title": "Revolutionary Road",
+      "author": "Richard Yates",
+      "isbn": "9780375708442",
+      "badge": "❤",
+      "review": "A devastating portrait of 1950s suburban discontent that still resonates today. Yates dissects the quiet desperation of a marriage and the gulf between our aspirations and reality. Weird to read a book where the author clearly hates the protagonist, too."
+    },
+    {
+      "title": "Trust Me",
+      "author": "John Updike",
+      "isbn": "0140113630",
+      "badge": null,
+      "review": "A collection of short stories which mostly explore marriage and death. Updike's precise attention to detail and subtle character insights remain sharp, but some stories feel more like exercises than fully realized narratives."
+    },
+    {
+      "title": "A Good School",
+      "author": "Richard Yates",
+      "isbn": "044013000X",
+      "badge": null,
+      "review": "What starts as a seemingly straightforward prep school novel becomes a nuanced exploration of the psychological mechanics of how the American dream absolutely bodies people. Bleak but fascinating."
+    },
+    {
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "isbn": "9780140186420",
+      "badge": null,
+      "review": "Steinbeck's classic novella about friendship and dreams in Depression-era California. Powerful but painful reading that raises timeless questions about mercy, loyalty, and what we owe to each other."
+    },
+    {
+      "title": "How Adam Smith Can Change Your Life",
+      "author": "Russ Roberts",
+      "isbn": "9781591847953",
+      "badge": "★",
+      "review": "A refreshing look at Adam Smith's lesser-known work on moral philosophy, offering timeless wisdom on how to lead a good life in the modern world. A central revelation is Smith's subtle but powerful distinction between being \"loved\" and being \"lovely.\" True fulfillment comes not from collecting praise, but from becoming genuinely praiseworthy; not from being admired, but from becoming truly admirable."
+    },
+    {
+      "title": "Whole Earth",
+      "author": "John Markoff",
+      "cover": "images/whole earth.jpg",
+      "badge": "❤",
+      "review": "A chronicle of Stewart Brand and his impact within the countercultural movement that shaped modern technology, tracing the origins of Silicon Valley's ethos back to the Whole Earth Catalog. Makes a case that Stewart Brand was consistently ahead of his time, making outsized impacts in industries but unable to fully capitalize on his forward-thinking vision."
+    },
+    {
+      "title": "Augustus",
+      "author": "John Williams",
+      "isbn": "0670141127",
+      "badge": "★",
+      "review": "A masterful historical novel told in the form of epistolary. Chronicling Rome's first emperor, Williams brings the political intrigue and personal costs of power to vivid life. This pulls off something incredible: Making ancient political intrigue feel relevant without forcing modern parallels. This portrait of Augustus as both idealist and pragmatist, revolutionary and institution-builder feels deeply relevant to modern leadership challenges."
+    },
+    {
+      "title": "Autonomous Worlds",
+      "author": "Anthology",
+      "cover": "images/autonomous worlds.jpeg",
+      "badge": "★",
+      "review": "A fantastic set of essays considering what it means as our world becomes increasingly onchain and increasingly filled with virtual worlds, agents, and identities. I imagine that I'll pick this back up a few more times over the coming years as things continue to shift."
+    },
+    {
+      "title": "East of Eden",
+      "author": "John Steinbeck",
+      "isbn": "9780142004234",
+      "badge": "❤",
+      "review": "A profound exploration of inherited sin, free will, and the tension between light and darkness. Steinbeck understood that choice is what makes us human, and watching characters wrestle with that freedom is both beautiful and brutal."
+    },
+    {
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "isbn": "9780593099322",
+      "badge": "❤",
+      "review": "An epic masterpiece of science fiction that continues to resonate decades after its publication. I had never read it before and expected to be underwhelmed, but Herbert's world-building is unparalleled, creating a richly detailed universe of feudal politics and mysticism wonder. The story of Paul Atreides' journey from privileged heir to messianic revolutionary a timeless exploration of power, destiny, and the human spirit."
+    },
+    {
+      "title": "The Secret Life of Groceries",
+      "author": "Benjamin Lorr",
+      "isbn": "9780553459418",
+      "badge": "❤",
+      "review": "An eye-opening expose of how our food gets to market. The author dives into trucking, fish sourcing, retail workers, and more. Also includes what is essentially a mini-biography of Joe from Trader Joes. Makes you realize every item on the shelf contains an entire universe of human struggle."
+    },
+    {
+      "title": "Read Write Own",
+      "author": "Chris Dixon",
+      "cover": "images/read write own.jpg",
+      "badge": "❤",
+      "review": "Some of the best thinking on the future of the internet and digital ownership. Dixon's insight that \"what the smartest people do on the weekends is what everyone else will do in the week in ten years\" feels prophetic. Technology shifts every 15 years. It's time for something new."
+    },
+    {
+      "title": "God, Human, Animal, Machine",
+      "author": "Meghan O'Gieblyn",
+      "isbn": "9780525562719",
+      "badge": "❤",
+      "review": "Philosophy that actually helps you understand the AI moment we're living through. O'Gieblyn connects all the dots between religious thinking and tech utopianism. Thought-provoking and deeply humane, this book challenges us to reconsider our place in the universe and our relationships with the myriad forms of intelligence — organic and artificial — that surround us."
+    },
+    {
+      "title": "Range",
+      "author": "David Epstein",
+      "isbn": "9780735214484",
+      "badge": "❤",
+      "review": "Proves that being a dilettante is good, actually. Epstein draws from a fascinating array of examples across sports, science, and the arts to make his case. A refreshing counter to the \"10,000 hours\" narrative that will make you rethink how we approach mastery and innovation."
+    }
+  ],
+  "2025": [
+    {
+      "title": "There Is No Antimemetics Division ",
+      "author": "qntm",
+      "isbn": "9781804954768",
+      "badge": "❤",
+      "review": "SCP wiki fiction that escaped containment and got a proper publishing deal. The premise — entities you literally cannot remember exist, ideas that eat your ability to perceive them — gets driven so far past breaking point it loops back around to weirdly rigorous. Fragmented structure means you're dropped into scenes mid-crisis alongside characters who also have no idea what's happening, which sounds annoying but actually rules. Reminded me of Clive Barker's The Great and Secret Show in how the horror isn't the monsters themselves but the cosmology underneath, and how both books saddle regular people with cosmic burdens they have no business carrying. The rare internet-born novel that earns its cult rep."
+    },   
+    {
+      "title": "How Music Got Free",
+      "author": "Stephen Witt",
+      "isbn": "0525426612",
+      "badge": "❤",
+      "review": "Tells the story of the mp3 revolution through three parallel narratives. The standout is Dell Glover, a CD manufacturing plant employee who leaked thousands of albums before release, becoming an inadvertent kingpin of the warez scene. Traces how technology repeatedly kneecapped the music industry over 20 years: mp3s begat piracy which decimated CDs, iTunes changed the album, YouTube opened up a new listening stream, VEVO made the music industry money again, and then streaming cannibalized everything. Each disruption felt like an ending but turned out to be just another chapter. Through this lens, it's easy to see the music industry's current model is just another temporary equilibrium waiting to be disrupted.  A great example of how tech obliterates business models and forces reinvention."
+    },    
+    {
+      "title": "Stupid TV, Be More Funny",
+      "author": "Alan Siegel ",
+      "isbn": "9781538742846",
+      "badge": "❤",
+      "review": "The definitive history of The Simpsons' golden era. I haven't watched the show in decades but Siegel's behind-the-scenes stories reminded me exactly why those early seasons became the cultural reference point for an entire generation. Fun to read the granular details about how certain episodes (still fresh in my memory!) were crafted through obsessive perfectionism and the willingness to burn jokes for the sake of better jokes. Fascinating to read about how the show was a pretty major contradiction: subversive enough to piss off George H.W. Bush while becoming a merchandising juggernaut that betrayed its own anti-corporate stance. Made me want to go watch the show again, but skip 'Do the Bartman.'"
+    },
+    {
+      "title": "No Rules Rules",
+      "author": "eed Hastings & Erin Meyer",
+      "isbn": "9781984877864",
+      "badge": "❤",
+      "review": "Netflix's radical culture decoded by the people who built it. Hastings lays out how extreme candor, talent density, and context-over-control created one of the most influential companies of our era. The timing of reading this during the Warner Bros/HBO acquisition was pretty perfect. Best chapters cover retention strategy (pay top of market so poaching becomes irrelevant) and navigating cultural barriers without diluting feedback culture. Some practices feel impossible to replicate without Netflix-level resources, but the underlying philosophy about treating adults like adults is refreshing."
+    },
+    {
+      "title": "This is for Everyone",
+      "author": "Tim Berners-Lee",
+      "isbn": "9781035023677",
+      "badge": "❤",
+      "review": "The architect of the web explaining his original vision in his own words. Berners-Lee's idealism about open protocols and universal access feels almost quaint now, and that's exactly what makes it essential reading. Hearing him describe the web as a collaborative space for humanity rather than an ad-delivery system just hits different. His frustration with how platforms enclosed the commons he tried to create comes through clearly. Required context for anyone who wants to understand what we lost along the way."
+    },
+    {
+      "title": "We Are the Nerds",
+      "author": "Christine Lagorio-Chafkin",
+      "isbn": "9780349416366",
+      "badge": "❤",
+      "review": "The definitive Reddit origin story, capturing a very specific moment in Silicon Valley when scrappy startups had an extremely clear path to becoming culture-shapers. This text captures the chaos of early Reddit (tech pivots, community experiments, personality clashes), but the really interesting part is watching founders sell their baby to people who fundamentally didn't understand what made it special. A cautionary tale about optimizing for exit over ethos, and a great snapshot of mid-2000s startup culture before everything became professionalized."
+    },
+    {
+      "title": "The Optimist",
+      "author": "Keach Hagey",
+      "cover": "images/optimist.jpeg",
+      "isbn": "9781982195656",
+      "badge": "❤",
+      "review": "Chronicles Sam Altman's rise from Y Combinator wunderkind to the guy most associated with kickstarting the AI boom. What makes it work is that Hagey doesn't frame him as either Bond villain or savior, but as a prism: tilt one way and he's a techno-messiah, tilt another and he's just a Valley operator playing the game harder than anyone else. It's not worship and it's not a hit piece, more like an X-ray of someone who genuinely believes the future can be hacked into existence, even if the rest of the world isn't sure that's comforting."
+    },
+    {
+      "title": "Chip War",
+      "author": "Chris Miller",
+      "isbn": "9781982172008",
+      "badge": null,
+      "review": "A history of how semiconductors became the new oil, except way more complicated and with Taiwan at the center of everything. Miller does the heavy lifting of explaining why TSMC basically controls the world economy without getting too deep in the technical weeds. Strong start with the early history of semiconductors, loses steam in the middle as it drifts into the modern era, but redeems itself with a sharp conclusion. Chips really are the keystone of modern power, and if we don't figure out this supply chain mess, nothing else we build will matter."
+    },
+    {
+      "title": "Everything is Tuberculosis",
+      "author": "John Green",
+      "isbn": "9780525556572",
+      "badge": "❤",
+      "review": "John Green makes a book about the world's oldest plague feel like a YouTube essay you accidentally learn too much from: earnest, funny, and occasionally devastating. What makes it work is how he threads personal stories through the history, turning statistics into something human. Makes the case that bacteria isn't the main villain, it's our shrugging institutions and the fact that we only pay attention to slow-burn crises once they explode. A weirdly entertaining book that doubles as a warning shot about how fragile \"public health\" really is."
+    },
+    {
+      "title": "Leadership and Self-Deception",
+      "author": "The Arbinger Institute",
+      "isbn": "9781523097807",
+      "badge": "❤",
+      "review": "A guide for being a better human disguised as a business book disguised as a parable. Cuts through all the corporate noise to say the real problem isn't strategy or process, it's how you treat people. Once you start seeing someone as an obstacle instead of a person, you're trapped in a self-reinforcing cycle of justification. What could have been preachy becomes genuinely transformative because the authors make you confront your own patterns rather than just collecting frameworks."
+    },
+    {
+      "title": "Twilight World",
+      "author": "Werner Herzog",
+      "isbn": "9780593490266",
+      "badge": "❤",
+      "review": "The true story of Hiroo Onoda, the Japanese soldier who kept fighting WWII in the jungle for 30 years after the war ended… but because it's told by the one and only Herzog, it's less biographical and more about finding the most obsessively committed human on earth and using him to explore what happens when devotion becomes delusion. You're never quite sure if you're reading history or watching the author project his own fascination with extremity onto Onoda's story. It doesn't matter! Beautifully written and deeply weird in ways that only he can pull off."
+    },
+    {
+      "title": "What We Owe the Future",
+      "author": "William MacAskill",
+      "isbn": "9781541618626",
+      "badge": null,
+      "review": "Longtermism manifesto that gets increasingly unhinged as it scales up. The core insight is that we should consider future generations in our moral calculus, which, yeah! but once he starts running the numbers, the whole framework becomes this abstract utilitarian fever dream. Classic EA brain worms. Takes a reasonable moral intuition and mathematizes it into absurdity. I'm all for thinking long-term, but not when it means treating actual humans like variables in a cosmic spreadsheet."
+    },
+    {
+      "title": "Apple in China",
+      "author": "Patrick McGee",
+      "cover": "images/apple in china.jpeg",
+      "badge": "❤",
+      "review": "FT reporter goes deep on Apple as a 30-year case study in getting played by your own supply chain. What starts as standard business history becomes a slow-motion car crash of corporate dependency. McGee shows how every \"smart\" decision to chase Chinese manufacturing and markets was actually Apple handing over leverage piece by piece until they had none left. What hits hardest is realizing this wasn't inevitable. Apple had choices, but the quarterly earnings pressure and Wall Street's obsession with margin expansion made every decision feel obvious at the time. Now we're stuck with the iPhone being manufactured by a country that might ban it tomorrow."
+    },
+    {
+      "title": "How Big Things Get Done",
+      "author": "Bent Flyvbjerg & Dan Gardner",
+      "isbn": "9780593239513",
+      "badge": "❤",
+      "review": "Cracks the code on why megaprojects consistently fail while offering a deceptively simple fix: think slow, act fast. Sounds like a fortune cookie until you hit the Olympics case study: Bazillions over budget every single time because each host city insists on reinventing the wheel with an entirely new team. The core insight — that the planning phase is where you win or lose, not execution — feels obvious in hindsight but revolutionary in practice. Everyone believes they're immune to delays, overruns, and optimism bias. They're not. You're not. No one is. A must-read if you're trying to build something big."
+    },
+    {
+      "title": "The Art of Thinking Clearly",
+      "author": "Rolf Dobelli",
+      "isbn": "9780062219695",
+      "badge": null,
+      "review": "Basically a field guide to cognitive landmines we keep stepping on. The author speed-runs tons of biases in breezy, bite-sized essays, each tackling a different mental trap with crisp examples that make you cringe with recognition. Didn't really stick with me but ymmv."
+    },
+    {
+      "title": "Skunk Works",
+      "author": "Ben Rich",
+      "isbn": "9780316743006",
+      "badge": "❤",
+      "review": "An insider account of Lockheed's legendary black projects division told by the dude who literally built the SR-71. The Skunk Works philosophy (small teams, minimal oversight, impossible deadlines) created the U-2, SR-71, and F-117 by basically ignoring every rule of modern corporate development. What hits hardest is how they treated secrecy as a feature, not a bug, using isolation to shield engineers from bureaucratic interference. Makes you wonder what we could build today if we stopped trying to democratize innovation and just let the weirdos cook."
+    },
+    {
+      "title": "The Psychopath Inside",
+      "author": "James Fallon",
+      "isbn": "9781591846000",
+      "badge": null,
+      "review": "Neuroscientist maps psychopathy in brain scans, finds his own lighting up like a Christmas tree, then spends 250 pages debating whether he's actually dangerous or just kind of a jerk. Fun premise, uneven execution. The memoir-meets-lab-report structure can't decide if it's a Netflix doc or a TED talk, and the \"maybe I'm fine?\" conclusion feels like letting himself off easy. Some genuinely fascinating insights about how psychopathic traits can be channeled productively (hello, Silicon Valley), but the book loses steam when the author gets too introspective about his own relationships."
+    },
+    {
+      "title": "Against Platforms",
+      "author": "Mike Pepi",
+      "cover": "images/against platforms.jpeg",
+      "badge": null,
+      "review": "Sharp diagnosis, questionable cure. Pepi's teardown of platform capitalism is genuinely excellent, cutting through Silicon Valley BS with surgical precision. The myth-busting chapters are perfect ammo for dunking on web 2.0, but the book loses me when it lumps all of crypto in with platform grift, dismissing it all as just another speculative permission slip for capitalism. I get distrusting VC funding, but the answer can't be just doubling down on the same systems that enabled this mess. Worth reading for the platform critique, but the solutions feel like throwing out potentially transformative tech to save institutions that clearly aren't working."
+    },
+    {
+      "title": "Outraged",
+      "author": "Kurt Gray",
+      "cover": "images/outraged.jpg",
+      "badge": "❤",
+      "review": "Feels like it's gonna be another \"why can't we all get along\" hand-wringer, but it pivots hard into evolutionary anthropology around the 1/3 mark. The sudden shift to \"let's contemplate the dawn of human civilization to understand Twitter fights\" shouldn't work, but it absolutely does. More books should pull this stunt. Lots of nuggets that stick: both sides think the other side is dumber, facts never change minds during peak outrage, and dehumanization is the real monster lurking behind every culture war. Gray's point is that the same tribal wiring that kept us alive on the savanna now makes us terrible at democracy. Essential for anyone wondering why reasoned discourse feels impossible rn."
+    },
+    {
+      "title": "Things Become Other Things",
+      "author": "Craig Mod",
+      "isbn": "9780593732540",
+      "badge": "❤",
+      "review": "Ex-silicon valley product monk turned rural-japan ascetic Craig Mod pens a walking memoir as a long letter to his closest friend. Mod (normally the tour guide) makes himself the exhibit, and grief bleeds into every page. The book makes it painfully clear that for Mod, walking is the only coping mechanism that allows him to continue seeing beauty in the world. Lean, vivid, quietly profound."
+    },
+    {
+      "title": "Positioning",
+      "author": "Al Ries & Jack Trout",
+      "isbn": "9780071373586",
+      "badge": null,
+      "review": "Published 45 years ago, this feels a bit like a fossil. Every example is a brand your dad remembers and the prose is soaked in Mad Men-era certainty, but the core insight holds: you don't win by being better, you win by being first (or at least by saying something first). A proto-22 Immutable Laws, but flabbier. If you can squint past the dated bits, the thesis still bangs: perception is the only battlefield that matters."
+    },
+    {
+      "title": "Out of the Ether",
+      "author": "Matthew Leising",
+      "cover": "images/out of the ether.jpeg",
+      "badge": "❤",
+      "review": "Captures the wild west days of early Ethereum, when teenage Vitalik and his crew of cypherpunks, academics, and dreamers accidentally built a world-changing platform held together by duct tape and vibes. The DAO hack becomes the dramatic centerpiece, but the real story is why so many believed in this nascent, stressful, borderline-breaking system. A fantastic snapshot of a moment where the future nearly ate itself."
+    },
+    {
+      "title": "Slade House",
+      "author": "David Mitchell",
+      "isbn": "9780812988079",
+      "badge": null,
+      "review": "Haunted house story that's less jump-scares and more slow-burn dread that gets under your skin. Episodic structure, with each section jumping forward in time but always returning to the same cursed home. You know something awful is coming for each new character who stumbles in, but the way it unfolds still manages to be both inventive and chilling. A little literary horror snack that doesn't overstay its welcome."
+    },
+    {
+      "title": "Comfort Crisis",
+      "author": "Michael Easter",
+      "isbn": "9780593138762",
+      "badge": "❤",
+      "review": "One of the only books in the \"get uncomfortable\" genre that doesn't feel like it's yelling at you. Surprisingly soulful for a book that also talks about hauling dead animals uphill. Blends endurance-sports war stories, evolutionary psych, and just-enough bro science to sell you on voluntary hardship without slipping into #grindset cosplay."
+    },
+    {
+      "title": "Disrupting the Game",
+      "author": "Reggie Fils-Aimé",
+      "isbn": "1400237696",
+      "badge": null,
+      "review": "Most PowerPoint-voice ahhhh memoir I've read in a long time. The prose is dry, the metaphors are corporate, and yet… the message lands. Former President of Nintendo writes like he's still on stage at E3, pitching \"strategic alignment\" with the kind of charisma that only works if you really believe the mission. There's a kind of square sincerity here that feels almost radical now. The advice can seem corny but it's true — take ownership, prepare obsessively, navigate politics without losing your soul."
+    },
+    {
+      "title": "Abundance",
+      "author": "Ezra Klein & Derek Thompson",
+      "isbn": "9781668023488",
+      "badge": "❤",
+      "review": "Critique of both America's political system and self-imposed scarcity crisis that (in my opinion) transcends typical partisan framing. Less a policy book and more a systems debugging manual for a country choking on its own red tape. The vibe throughout is \"what if we stopped trying to fix things by drowning them in paperwork?\" Nails how bureaucracy chokes innovation in the name of oversight, creating a vetocracy that strangles progress in the name of protecting process. The book's diagnosis is brutal and compelling: we haven't run out of ideas, we've just made it nearly impossible to act on them."
+    },
+    {
+      "title": "The Good Man Jesus and the Scoundrel Christ",
+      "author": "Philip Pullman",
+      "isbn": "9780802145390",
+      "badge": "❤",
+      "review": "Pullman pulls off a wild thought experiment by splitting the gospel story into twin characters: Jesus the radical truth-teller vs. Christ the legacy-obsessed pragmatist. What starts as a seemingly clear moral division gets murky as Christ's \"reasonable\" compromises and edits morph from well-intentioned preservation into something darker. The critique lands because it's not anti-spirituality but anti-institution — showing exactly how revolutionary messages get packaged into dogma through well-intentioned compromise."
+    },
+    {
+      "title": "The Book of Strange New Things",
+      "author": "Michel Faber",
+      "isbn": "9780553418866",
+      "badge": "❤",
+      "review": "Missionary sci-fi that starts as a simmer and ends up a gut-wrenching meditation on faith, distance, and what it means to be human. Less about the weirdly chill aliens and more about how theological frameworks collapse when confronted with real suffering. The author weaponizes religious language to show how quickly scripture can transform from comfort to existential abandonment. Bleak but never cynical. Perfect for anyone who likes their sci-fi introspective and their theology a little bruised."
+    },
+    {
+      "title": "Boom",
+      "author": "Byrne Hobart & Tobias Huber",
+      "isbn": "9781953953476",
+      "badge": "★",
+      "review": "Crucial manifesto against stagnation that reframes the value of bubbles as generative forces rather than just destructive ones. The Apollo program was a bubble, Bitcoin was a bubble, even Xerox PARC was a bubble. Nails how self-reinforcing optimism creates futures that couldn't exist without collective delusion first. Best insight: truly transformative tech never appears as \"5% better\" versions of existing stuff. Cars weren't better horses, and crypto isn't just banking with extra steps. Essential for understanding why sometimes you need irrational exuberance to build anything worth building."
+    },
+    {
+      "title": "All Systems Red",
+      "author": "Martha Wells",
+      "isbn": "9780765397539",
+      "badge": null,
+      "review": "Solid entry in the \"what if robots had anxiety too\" genre that doesn't take itself too seriously. Nothing groundbreaking plot-wise but the novella format keeps it tight without unnecessary filler. Enjoyed the corporate dystopia backdrop that's just assumed rather than explained at length. A great setting for a security bot with anxiety who'd rather watch entertainment feeds than deal with humans."
+    },
+    {
+      "title": "Becoming Los Angeles",
+      "author": "D.J. Waldie",
+      "cover": "images/becoming los angeles.jpeg",
+      "badge": "★",
+      "review": "Perfect prose meditation on LA as both mythscape and reality. Waldie's essays connect fake laurel trees to aerospace workers to homeless crises with rare compassion and haunting clarity. Maps the city's cultural patchwork brilliantly — from Okies reshaping suburbs to hippies nestled in Laurel Canyon, all orbiting the same sun but living different realities. The nostalgia-laced writing on \"memetic architecture\" (those giant donuts and derby-shaped diners) mourns the playful buildings that made LA feel like a dream before glass boxes replaced them. Essential for understanding a city that never stops turning into something else."
+    },
+    {
+      "title": "The Technological Republic",
+      "author": "Alex Karp & Nicholas Zamiska",
+      "isbn": "9780593798690",
+      "badge": null,
+      "review": "Nails how tech lost its hard-edge building instinct to chase engagement metrics and shareholder value, but the book loses me blaming 60s counterculture for everything without asking why young people might have legitimate reasons to distrust institutions. Raises the right question (why isn't American tech building for national advantage?) but sidesteps the thorny answers. Best read as a tech history crash course and provocation, not a complete roadmap."
+    },
+    {
+      "title": "Status and Culture",
+      "author": "W. David Marx",
+      "isbn": "9780593296714",
+      "badge": null,
+      "review": "Slow burn sociological analysis that rewards patience once you get past the academic first half. Explores how status-seeking shapes everything from music careers to fashion trends with just the right mix of theory and examples. Particularly enjoyed the section about gourmet cupcakes as status theory: something meaningless becomes a status marker, gets oversaturated, then becomes equally meaningless to care about at all. Perfect encapsulation of how cultural cycles work. Surprisingly neutral on NFTs."
+    },
+    {
+      "title": "The Nvidia Way",
+      "author": "Tae Kim",
+      "cover": "images/nvidiaway.jpg",
+      "badge": "❤",
+      "review": "Corporate biography that only gets good when Nvidia itself starts winning. Nothing remarkable until you hit the hardcore culture anecdotes — Jensen telling teams \"second place is first loser\" and starting each day telling himself \"You suck\" in the mirror. Wild stuff about engineers staying late every night because they were legitimately obsessed with \"killing Intel.\" Dollar bonuses that somehow motivated people more than actual money would have. Ultimate case study in how a slightly toxic, heavily driven culture can create a trillion-dollar juggernaut."
+    },
+    {
+      "title": "Martyr!",
+      "author": "Kaveh Akbar",
+      "isbn": "9781035026081",
+      "badge": "❤",
+      "review": "Fever dream quest of an Iranian-American poet making his way through addiction and identity crisis. Goes places most immigrant narratives don't (religious obsession!) without ever feeling like trauma tourism. Nonlinear structure mirrors the protagonist's fractured sense of self. Think Rushdie energy but with gen-z disillusionment."
+    },
+    {
+      "title": "The Old Man and the Gun",
+      "author": "David Grann",
+      "cover": "images/oldmangun.jpg",
+      "badge": null,
+      "review": "Three true crime pieces: an elderly serial bank robber who escaped prison 16 times, a polish author who blurred fact and fiction until the cops got involved, and a French impostor who stole the identity of a missing Texas teen. Breezy airport reading, but in a good way."
+    },
+    {
+      "title": "House of Earth",
+      "author": "Woody Guthrie",
+      "isbn": "9780062248398",
+      "badge": "❤",
+      "review": "Folk legend's lost novel, a story about a poor Texas couple trying to build an adobe house that becomes a meditation on systemic poverty, hope, and human desire. Hits hard with a raw mix of political rage and erotic energy that somehow works? Think Steinbeck but hornier. Guthrie understood greed as a societal disease in a way that makes you realize 'This Land Is Your Land' was actually kinda punk."
+    },
+    {
+      "title": "Leadership in War",
+      "author": "Andrew Roberts",
+      "isbn": "9780525522386",
+      "badge": "❤",
+      "review": "Perfect balance of military history and leadership psychology without getting too \"here's what CEOs can learn from Churchill\" about it. Roberts shows how leaders built real trust with troops with some great examples, like Napoleon giving away his own medals to troops mid-battle. Best bits are about how these leaders weaponized their own Ls into comeback fuel, and the book ends with a great insight about how true leadership is basically redistributed main character energy."
+    },
+    {
+      "title": "The Age of Wood",
+      "author": "Roland Ennos",
+      "isbn": "1982159308",
+      "badge": null,
+      "review": "Ambitious attempt to frame all of human history through the lens of wood, but suffers from the 'this should have been an essay' problem. Some genuinely fascinating ideas buried in here about humanity, like how losing our hair (thanks, fleas!) might have kickstarted human innovation by forcing us to actually think about adapting. Worth skimming for the insights, but could've been half as long."
+    },
+    {
+      "title": "Pronto",
+      "author": "Elmore Leonard",
+      "isbn": "0440214432",
+      "badge": null,
+      "review": "Crime fiction that's more about the characters than the crimes. Love how Leonard treats crime as just another job where people happen to shoot each other occasionally. Great showcase of how to write characters who are smart enough to be interesting but dumb enough to get into trouble."
+    },
+    {
+      "title": "Enemy of All Mankind",
+      "author": "Steven Johnson",
+      "isbn": "9780735211605",
+      "badge": null,
+      "review": "A clearheaded take on piracy that strips away the romanticized Robin Hood myths while still showing how outlaws shaped global commerce. Follows Henry Every's infamous heist to explore how pirates were both criminals and, incidentally, innovators who created parallel economies when locked out of official ones (sound familiar?). Johnson's got a gift for making historical economics hit like a thriller. Great book for understanding why \"unofficial\" economies keep emerging."
+    },
+    {
+      "title": "The Battle for Your Brain",
+      "author": "Nita Farahany",
+      "isbn": "9781250272959",
+      "badge": "❤",
+      "review": "Wake-up call about neurotech that no one seems to be taking seriously enough. Opens with a workplace dystopia that's way closer than you think—imagine your brainwave data getting subpoenaed by your employer. Author brings personal stakes (migraines + severe PTSD) that make you realize why we can't just say no to this tech, but between intrusive surveillance, state control, and straight-up weaponization (Havana Syndrome is probably real btw), we're sleepwalking into a future where our thoughts aren't our own. The rare doomer book that's not just typical tech panic lit."
+    },
+    {
+      "title": "22 Immutable Laws of Marketing",
+      "author": "Al Ries & Jack Trout",
+      "isbn": "9780887306662",
+      "badge": "❤",
+      "review": "Marketing bible that still hits after 30+ years (minus some hilariously wrong predictions). Core insight is true: Being first > being better, and perception > reality. Good framework about how people organize brands as mental \"ladders\" and why there's usually only room for two real competitors per category. God-tier advice about when to create new categories vs going head-to-head."
+    },
+    {
+      "title": "Wise Blood",
+      "author": "Flannery O'Connor",
+      "isbn": "9780374530631",
+      "badge": "❤",
+      "review": "Goes hard on religious obsession. At its core, this is about how fighting against something can just show how deeply it owns you. Full of grotesque characters and surreal situations that somehow feel more real than realism. Makes you question if historical Jesus would've been as disturbed by Paul's church-building as Hazel is by his imitators. Brutal but weirdly beautiful."
+    },
+    {
+      "title": "Play Nice",
+      "author": "Jason Schreier",
+      "isbn": "9781538725429",
+      "badge": "❤",
+      "review": "Jason Schreier continues to be the GOAT at turning game industry drama into can't-put-it-down narratives. Fascinating look at how Blizzard built an empire not by inventing genres but by perfecting them. Great chapter on how StarCraft was initially a failure and totally reworked, which shows it's never too late to throw out something mediocre and start fresh — but ultimately this is a cautionary tale about what happens when corporate structure chokes out creativity."
+    }
+  ],
+  "2026": [
+    {
 "title": "The Beach",
 "author": "Alex Garland",
 "isbn": "1573220485",
 "badge": "❤",
-"review": "Backpacker noir that nails how the search for paradise always carries the seeds of its own destruction. Garland’s protagonist is magnetic in large part because he’s kind of a terrible person -- selfish, delusional, romanticizing everything while ruining it in real time -- and his first-hand account never flinches from that. The writing has a restless, sun-drunk energy that matches the headspace of someone who’s convinced they’ve found the last unspoiled place on earth. What starts as a travel fantasy curdles into a sharp meditation on what happens when a community built on escape has to actually govern itself. Turns out utopia requires rules, and rules require enforcement, and suddenly you’re right back in the world you were running from."
+"review": "Backpacker noir that nails how the search for paradise always carries the seeds of its own destruction. Garland's protagonist is magnetic in large part because he's kind of a terrible person -- selfish, delusional, romanticizing everything while ruining it in real time -- and his first-hand account never flinches from that. The writing has a restless, sun-drunk energy that matches the headspace of someone who's convinced they've found the last unspoiled place on earth. What starts as a travel fantasy curdles into a sharp meditation on what happens when a community built on escape has to actually govern itself. Turns out utopia requires rules, and rules require enforcement, and suddenly you're right back in the world you were running from."
 },
-{
-"title": "When the Going Was Good",
-"author": "Graydon Carter",
-"cover": "images/when-the-going-was-good-1.jpg",
-"badge": "❤",
-"review": "A behind-the-scenes memoir of 25 years running Vanity Fair during the last era where magazines actually mattered. To level set, there’s basically an entire chapter dedicated to expense accounts that borders on obscene by today’s standards, and it’s one of my favorite parts of the whole book. The best sections are about having the budget and freedom to just pursue a story because you wanted to, sending writers across the world on a hunch, letting pieces breathe for months. Easy to get wistful about the golden age of magazines; there’s truly nothing like it today and probably never will be again. Carter’s a natural raconteur who makes every story a joy to read. Makes me want to find a magazine rack somewhere and bring a few home."
-},
-{
-"title": "The Time Keeper",
-"author": "Mitch Albom",
-"isbn": "1624901409",
-"badge": null,
-"review": "A slim parable about the weight of measured time. This book goes full parable mode, weaving between ancient myth and two modern storylines about people who want more time and less of it. Could easily tip into hallmark territory but earns its sentiment through sheer earnestness. Maybe a little too tidy, maybe a little too on-the-nose, but sometimes you want a book that just says the thing plainly. Quick read, good for a reset (or the beginning of a year)."
-}
-]
+
+    {
+      "title": "When the Going Was Good",
+      "author": "Graydon Carter",
+      "cover": "images/when-the-going-was-good-1.jpg",
+      "badge": "❤",
+      "review": "A behind-the-scenes memoir of 25 years running Vanity Fair during the last era where magazines actually mattered. To level set, there's basically an entire chapter dedicated to expense accounts that borders on obscene by today's standards, and it's one of my favorite parts of the whole book. The best sections are about having the budget and freedom to just pursue a story because you wanted to, sending writers across the world on a hunch, letting pieces breathe for months. Easy to get wistful about the golden age of magazines; there's truly nothing like it today and probably never will be again. Carter's a natural raconteur who makes every story a joy to read. Makes me want to find a magazine rack somewhere and bring a few home."
+    },
+    {
+      "title": "The Time Keeper",
+      "author": "Mitch Albom",
+      "isbn": "1624901409",
+      "badge": null,
+      "review": "A slim parable about the weight of measured time. This book goes full parable mode, weaving between ancient myth and two modern storylines about people who want more time and less of it. Could easily tip into hallmark territory but earns its sentiment through sheer earnestness. Maybe a little too tidy, maybe a little too on-the-nose, but sometimes you want a book that just says the thing plainly. Quick read, good for a reset (or the beginning of a year)."
+    }
+  ]
 }
