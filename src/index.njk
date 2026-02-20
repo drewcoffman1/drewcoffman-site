@@ -539,24 +539,36 @@ title: Drew Coffman
         div.appendChild(badge);
       }
       
-      const searchTitle = encodeURIComponent(movie.title);
-      const yearParam = movie.year ? `&y=${movie.year}` : '';
-      
-      fetch(`https://www.omdbapi.com/?t=${searchTitle}${yearParam}&apikey=72bc447a`)
-        .then(res => res.json())
-        .then(data => {
-          if (data.Poster && data.Poster !== 'N/A') {
-            movie.poster = data.Poster;
-            const img = document.createElement('img');
-            img.src = data.Poster;
-            img.alt = movie.title;
-            img.loading = 'lazy';
-            img.onload = function() { div.classList.add('has-image'); };
-            img.onerror = function() { this.remove(); };
-            div.appendChild(img);
-          }
-        })
-        .catch(() => {});
+      if (movie.poster) {
+        // Use custom poster if provided
+        const img = document.createElement('img');
+        img.src = movie.poster;
+        img.alt = movie.title;
+        img.loading = 'lazy';
+        img.onload = function() { div.classList.add('has-image'); };
+        img.onerror = function() { this.remove(); };
+        div.appendChild(img);
+      } else {
+        // Fetch from OMDB
+        const searchTitle = encodeURIComponent(movie.title);
+        const yearParam = movie.year ? `&y=${movie.year}` : '';
+
+        fetch(`https://www.omdbapi.com/?t=${searchTitle}${yearParam}&apikey=72bc447a`)
+          .then(res => res.json())
+          .then(data => {
+            if (data.Poster && data.Poster !== 'N/A') {
+              movie.poster = data.Poster;
+              const img = document.createElement('img');
+              img.src = data.Poster;
+              img.alt = movie.title;
+              img.loading = 'lazy';
+              img.onload = function() { div.classList.add('has-image'); };
+              img.onerror = function() { this.remove(); };
+              div.appendChild(img);
+            }
+          })
+          .catch(() => {});
+      }
       
       return div;
     }
