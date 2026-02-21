@@ -1,0 +1,65 @@
+{
+  "now": [
+    {
+      "text": "thinking deeply about social and storytelling at",
+      "link": "https://x.com/base",
+      "linkText": "Base"
+    },
+    {
+      "text": "building",
+      "link": "https://noun.coffee",
+      "linkText": "Noun",
+      "suffix": ", a coffee and wine bar in LA"
+    }
+  ],
+  "previously": [
+    {
+      "text": "contributed to membership models of",
+      "link": "https://www.fwb.help/",
+      "linkText": "FWB"
+    },
+    {
+      "text": "fostered partnerships with",
+      "link": "https://www.gitcoin.co/",
+      "linkText": "Gitcoin"
+    },
+    {
+      "text": "pioneered a better decentralized web w/",
+      "link": "https://aave.com/",
+      "linkText": "Aave"
+    },
+    {
+      "text": "cultivated community for",
+      "link": "https://unsplash.com/",
+      "linkText": "Unsplash",
+      "suffix": " and",
+      "link2": "https://creativemarket.com/",
+      "linkText2": "Creative Market"
+    }
+  ],
+  "lore": [
+    {
+      "link": "https://www.tiktok.com/t/ZPHwj2CQW3Suy-oOWl4/",
+      "linkText": "picked up 50k followers on tiktok and diverted the crowd into watching me assemble a coffee and wine bar in LA"
+    },
+    {
+      "link": "https://www.nouns.camp/proposals/450",
+      "linkText": "passed prop 450 in NounsDAO, 78 votes for and 32 against"
+    },
+    {
+      "html": "<a href=\"https://x.com/drewcoffman/status/1265123118424551425\">posted about HyperCard so much</a> that I accidentally <a href=\"https://x.com/kevin2kelly/status/1267005411040739330\">got Kevin Kelly to upload the Whole Earth Catalog to archive.org</a>"
+    },
+    {
+      "link": "https://www.tiktok.com/@drewcoffman_/video/6957041255280889094",
+      "linkText": "shared some bad outer space news about a falling rocket (10M views)"
+    },
+    {
+      "link": "https://x.com/drewcoffman/status/1129209278114422784",
+      "linkText": "tweeted a sushi plate video that Patton Oswalt called \"simple and perfect\" (26M views)"
+    },
+    {
+      "link": "https://www.youtube.com/watch?v=wMOACjJzfgM",
+      "linkText": "made a series of YouTube videos about Roam Research"
+    }
+  ]
+}

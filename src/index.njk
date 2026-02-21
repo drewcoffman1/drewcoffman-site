@@ -37,29 +37,26 @@ title: Drew Coffman
     <div class="main-grid">
       <div class="about-section fade-in" id="about">
         <h2 class="section-title">About Me</h2>
-        
+
         <p class="label">//now//</p>
         <ul>
-          <li>thinking deeply about social and storytelling at <a href="https://x.com/base" target="_blank">Base</a></li>
-          <li>building <a href="https://noun.coffee" target="_blank">Noun</a>, a coffee and wine bar in LA</li>
+          {%- for item in about.now %}
+          <li>{{ item.text }} <a href="{{ item.link }}" target="_blank">{{ item.linkText }}</a>{{ item.suffix }}</li>
+          {%- endfor %}
         </ul>
 
         <p class="label">//previously//</p>
         <ul>
-          <li>contributed to membership models of <a href="https://www.fwb.help/">FWB</a></li>
-          <li>fostered partnerships with <a href="https://www.gitcoin.co/">Gitcoin</a></li>
-          <li>pioneered a better decentralized web w/ <a href="https://aave.com/">Aave</a></li>
-          <li>cultivated community for <a href="https://unsplash.com/">Unsplash</a> and <a href="https://creativemarket.com/">Creative Market</a></li>
+          {%- for item in about.previously %}
+          <li>{{ item.text }} <a href="{{ item.link }}">{{ item.linkText }}</a>{% if item.link2 %}{{ item.suffix }} <a href="{{ item.link2 }}">{{ item.linkText2 }}</a>{% endif %}</li>
+          {%- endfor %}
         </ul>
 
         <p class="label">//lore//</p>
         <ul>
-          <li><a href="https://www.tiktok.com/t/ZPHwj2CQW3Suy-oOWl4/">picked up 50k followers on tiktok and diverted the crowd into watching me assemble a coffee and wine bar in LA</a></li>
-          <li><a href="https://www.nouns.camp/proposals/450">passed prop 450 in NounsDAO, 78 votes for and 32 against</a></li>
-          <li><a href="https://x.com/drewcoffman/status/1265123118424551425">posted about HyperCard so much</a> that I accidentally <a href="https://x.com/kevin2kelly/status/1267005411040739330">got Kevin Kelly to upload the Whole Earth Catalog to archive.org</a></li>
-          <li><a href="https://www.tiktok.com/@drewcoffman_/video/6957041255280889094">shared some bad outer space news about a falling rocket (10M views)</a></li>
-          <li><a href="https://x.com/drewcoffman/status/1129209278114422784">tweeted a sushi plate video that Patton Oswalt called "simple and perfect" (26M views,)</a></li>
-          <li><a href="https://www.youtube.com/watch?v=wMOACjJzfgM">made a series of YouTube videos about Roam Research</a></li>
+          {%- for item in about.lore %}
+          <li>{% if item.html %}{{ item.html | safe }}{% else %}<a href="{{ item.link }}">{{ item.linkText }}</a>{% endif %}</li>
+          {%- endfor %}
         </ul>
       </div>
 
