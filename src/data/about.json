@@ -1,9 +1,9 @@
 {
   "now": [
     {
-      "text": "thinking deeply about social and storytelling at",
-      "link": "https://x.com/base",
-      "linkText": "Base"
+      "text": "making the case for crypto at",
+      "link": "https://x.com/a16zcrypto",
+      "linkText": "a16z"
     },
     {
       "text": "building",
@@ -13,6 +13,12 @@
     }
   ],
   "previously": [
+    {
+      "text": "shaped how",
+      "link": "https://x.com/base",
+      "linkText": "Base",
+      "suffix": "talked to the world"
+    },
     {
       "text": "contributed to membership models of",
       "link": "https://www.fwb.help/",
