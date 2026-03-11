@@ -48,7 +48,7 @@ title: Drew Coffman
         <p class="label">//previously//</p>
         <ul>
           {%- for item in about.previously %}
-          <li>{{ item.text }} <a href="{{ item.link }}">{{ item.linkText }}</a>{% if item.link2 %}{{ item.suffix }} <a href="{{ item.link2 }}">{{ item.linkText2 }}</a>{% endif %}</li>
+          <li>{{ item.text }} <a href="{{ item.link }}">{{ item.linkText }}</a>{% if item.link2 %}{{ item.suffix }} <a href="{{ item.link2 }}">{{ item.linkText2 }}</a>{% elif item.suffix %} {{ item.suffix }}{% endif %}</li>
           {%- endfor %}
         </ul>
 
