@@ -313,6 +313,37 @@ title: Drew Coffman
       updateBookCount();
     }
 
+    function loadModalImage(image, url) {
+      const loadId = String(Number(image.dataset.loadId || 0) + 1);
+      image.dataset.loadId = loadId;
+      image.onload = null;
+      image.onerror = null;
+      image.style.display = 'none';
+      image.removeAttribute('src');
+
+      if (!url) return;
+
+      image.onload = () => {
+        if (image.dataset.loadId === loadId) {
+          image.style.display = 'block';
+        }
+      };
+      image.onerror = () => {
+        if (image.dataset.loadId === loadId) {
+          image.style.display = 'none';
+        }
+      };
+      image.src = url;
+    }
+
+    function clearModalImage(image) {
+      image.dataset.loadId = String(Number(image.dataset.loadId || 0) + 1);
+      image.onload = null;
+      image.onerror = null;
+      image.style.display = 'none';
+      image.removeAttribute('src');
+    }
+
     // Book modal
     function openModal(book) {
       const modal = document.getElementById('modal');
@@ -322,13 +353,7 @@ title: Drew Coffman
       const review = document.getElementById('modal-review');
       
       const coverUrl = book.cover || (book.isbn ? `https://covers.openlibrary.org/b/isbn/${book.isbn}-L.jpg` : null);
-      
-      if (coverUrl) {
-        cover.src = coverUrl;
-        cover.style.display = 'block';
-      } else {
-        cover.style.display = 'none';
-      }
+      loadModalImage(cover, coverUrl);
       
       title.textContent = book.title;
       author.textContent = book.author || '';
@@ -347,6 +372,7 @@ title: Drew Coffman
 
     function closeModal() {
       document.getElementById('modal').classList.remove('active');
+      clearModalImage(document.getElementById('modal-cover'));
       document.body.style.overflow = '';
     }
 
@@ -476,12 +502,7 @@ title: Drew Coffman
       const year = document.getElementById('movie-modal-year');
       const review = document.getElementById('movie-modal-review');
       
-      if (movie.poster) {
-        poster.src = movie.poster;
-        poster.style.display = 'block';
-      } else {
-        poster.style.display = 'none';
-      }
+      loadModalImage(poster, movie.poster || null);
       
       title.textContent = movie.title;
       year.textContent = movie.year ? `(${movie.year})` : '';
@@ -500,6 +521,7 @@ title: Drew Coffman
 
     function closeMovieModal() {
       document.getElementById('movie-modal').classList.remove('active');
+      clearModalImage(document.getElementById('movie-modal-poster'));
       document.body.style.overflow = '';
     }
 
