@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "build": "npx @11ty/eleventy",
-    "serve": "npx @11ty/eleventy --serve"
+    "serve": "npx @11ty/eleventy --serve",
+    "posters": "node scripts/backfill-movie-posters.mjs --write --verify"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
