@@ -3,7 +3,7 @@
     {
       "title": "Plainsong",
       "author": "Kent Haruf",
-      "cover": "images/plainsong.jpeg",
+      "cover": "images/book-covers/plainsong.jpg",
       "badge": "❤",
       "review": "The struggles of ordinary people told through spare yet stirring prose. A pastoral portrait of small-town life. A tender exploration of the hardships and hopes of interconnected souls in a fading rural community."
     },
@@ -38,7 +38,7 @@
     {
       "title": "The Road Not Taken",
       "author": "Harry Turtledove",
-      "cover": "images/the road not taken.jpeg",
+      "cover": "images/book-covers/the road not taken.jpg",
       "badge": "❤",
       "review": "An alternate reality that imagines the consequences of spacefaring civilizations that learn how to travel at light speed before they gain other technologies, while we remain earthbound but develop a tech tree of an entirely different sort. A compelling tale of war, power, and the contingencies of history."
     },
@@ -52,7 +52,7 @@
     {
       "title": "Software for Artists Book",
       "author": "Various",
-      "cover": "images/software for artists.jpeg",
+      "cover": "images/book-covers/software for artists.jpg",
       "badge": "❤",
       "review": "Brings together a diverse range of voices and perspectives, each contributing to a broader conversation about creativity, digital tools, and the internet's role in reshaping art. Its exploratory nature (and expert editing) makes it a valuable resource for artists, technologists, and anyone interested in the intersection of art and digital culture."
     },
@@ -66,14 +66,14 @@
     {
       "title": "Make Something Wonderful",
       "author": "Steve Jobs",
-      "cover": "images/make something wonderful.jpeg",
+      "cover": "images/book-covers/make something wonderful.jpg",
       "badge": null,
       "review": "Though hagiographic at times, many of the collected speeches here are as inspiring as ever."
     },
     {
       "title": "In The Stacks",
       "author": "Robin Sloan",
-      "cover": "images/in the stacks.jpeg",
+      "cover": "images/book-covers/in the stacks.jpg",
       "badge": null,
       "review": "An enchanting love letter to libraries and maker culture. Worth experiencing on the site it was published on, if only to enjoy the synthesizer built into both the book and the page itself."
     },
@@ -108,7 +108,7 @@
     {
       "title": "Milk!",
       "author": "Mark Kurlansky",
-      "cover": "images/milk.jpeg",
+      "cover": "images/book-covers/milk.jpg",
       "badge": "❤",
       "review": "Culinary history can be so interesting! A book on how milk has shaped culture, cuisine, and civilization itself. A deeply researched yet highly readable account."
     },
@@ -166,7 +166,7 @@
     {
       "title": "Life in the Negative World",
       "author": "Aaron M. Renn",
-      "cover": "images/life in the negative world.jpg",
+      "cover": "images/book-covers/life in the negative world.jpg",
       "badge": null,
       "review": "Cultural analysis that starts strong but gets kinda mid. Maps a \"positive to neutral to negative\" framework onto American Christianity's declining social capital. Some fascinating bits about Quaker business ethics and how male influencers filled the vacuum left by institutional Christianity's retreat from offering clear guidance to men. Unfortunately devolves into giving Christians advice about antifragility and FIRE to avoid cancelation. Some good stuff about institutional decay but reads like premium Substack content stretched to book length."
     },
@@ -208,14 +208,14 @@
     {
       "title": "Blood, Sweat, and Pixels",
       "author": "Jason Schreier",
-      "cover": "images/bloodsweat.jpg",
+      "cover": "images/book-covers/bloodsweat.jpg",
       "badge": "❤",
       "review": "Peak games journalism. Each chapter is a war story from the gaming industry's front lines, laying bare both the creative triumph and human cost of your favorite titles. Pours one out for Star Wars 1313 while explaining exactly why your favorite studio keeps imploding."
     },
     {
       "title": "The Everything Token",
       "author": "Steve Kaczynski & Scott Kominers",
-      "cover": "images/everythingtoken.jpg",
+      "cover": "images/book-covers/everythingtoken.jpg",
       "badge": "❤",
       "review": "An excellent primer on the transformative potential of an onchain future. Maps out the \"NFT staircase\" with crystal clarity — from basic collectibles to full community infrastructure. A thought-provoking exploration of how new systems can reshape our relationship with digital goods and communities."
     },
@@ -299,7 +299,7 @@
     {
       "title": "Evil Robots, Killer Computers",
       "author": "Steven Shwartz",
-      "cover": "images/evilrobots.jpg",
+      "cover": "images/book-covers/evilrobots.jpg",
       "badge": null,
       "review": "A relatively level-headed look at AI and robotics, offering a balanced view of the future of technology. If you know someone worried about the AIpocolypse, this acts as a helpful response."
     },
@@ -327,7 +327,7 @@
     {
       "title": "Wild Problems",
       "author": "Russ Roberts",
-      "cover": "images/wildproblems.jpg",
+      "cover": "images/book-covers/wildproblems.jpg",
       "badge": null,
       "review": "A stimulating examination of life's biggest decisions that sometimes gets lost in its own abstractions. Roberts makes a compelling case for embracing uncertainty and following our intuition when faced with choices that can't be easily quantified. While his economic lens offers fresh insights, the book occasionally veers into overly academic territory."
     },
@@ -341,7 +341,7 @@
     {
       "title": "Little Lyell Machines",
       "author": "Kirsten Bevin",
-      "cover": "images/littlelyell.jpg",
+      "cover": "images/book-covers/littlelyell.jpg",
       "badge": "❤",
       "review": "A wonderful book connecting an onchain project to a very real place on this earth. I love it when the digital and the physical connects."
     },
@@ -355,7 +355,7 @@
     {
       "title": "The Contrarian",
       "author": "Max Chafkin",
-      "cover": "images/thecontrarian.jpg",
+      "cover": "images/book-covers/thecontrarian.jpg",
       "badge": null,
       "review": "Easily my least favorite book I read all year. While thorough in accumulating details, Chafkin seems more interested in dunking on Thiel than actually understanding what makes him tick. Feels like reading a narrative from someone who already made up their mind before they even began."
     },
@@ -376,7 +376,7 @@
     {
       "title": "Most Dangerous Man in America",
       "author": "Bill Minutaglio & Steven L. Davis",
-      "cover": "images/mostdangerousman.jpg",
+      "cover": "images/book-covers/mostdangerousman.jpg",
       "badge": "❤",
       "review": "A riveting chronicle of Timothy Leary's wild adventures as a counterculture icon on the run, weaving together FBI records, interviews, and vivid storytelling to transport readers into a bygone era of cultural upheaval under a drug revolution and Richard Nixon's presidency. Meticulously researched yet reads like a thriller."
     },
@@ -404,14 +404,14 @@
     {
       "title": "City at the Edge of Forever",
       "author": "Peter Lunenfeld",
-      "cover": "images/edgeofforever.jpg",
+      "cover": "images/book-covers/edgeofforever.jpg",
       "badge": "❤",
       "review": "A kaleidoscopic history of Los Angeles as a place always one-foot into the future. Gets how immigrant creativity and outsider art shaped the city's identity. Required reading for understanding why LA keeps reinventing itself."
     },
     {
       "title": "Little Red Book",
       "author": "Facebook",
-      "cover": "images/littlered.jpg",
+      "cover": "images/book-covers/littlered.jpg",
       "badge": "❤",
       "review": "Facebook's internal design manifesto, originally given only to employees. Fascinating look at how companies try to scale vibes."
     },
@@ -453,7 +453,7 @@
     {
       "title": "The Flame",
       "author": "Leonard Cohen",
-      "cover": "images/theflame.jpg",
+      "cover": "images/book-covers/theflame.jpg",
       "badge": null,
       "review": "A posthumous collection of Leonard Cohen's poetry and lyrics, offering a final glimpse into the mind of the musician. I have never been too big of a Cohen fan, but this ultimately made me like him."
     },
@@ -474,7 +474,7 @@
     {
       "title": "The Stars at Noon",
       "author": "Denis Johnson",
-      "cover": "images/stars at noon.jpeg",
+      "cover": "images/book-covers/stars at noon.jpg",
       "badge": "❤",
       "review": "Fever dream thriller in revolutionary Nicaragua following an American woman caught in a web of espionage. Makes you feel sticky just reading it."
     },
@@ -565,7 +565,7 @@
     {
       "title": "Whole Earth",
       "author": "John Markoff",
-      "cover": "images/whole earth.jpg",
+      "cover": "images/book-covers/whole earth.jpg",
       "badge": "❤",
       "review": "A chronicle of Stewart Brand and his impact within the countercultural movement that shaped modern technology, tracing the origins of Silicon Valley's ethos back to the Whole Earth Catalog. Makes a case that Stewart Brand was consistently ahead of his time, making outsized impacts in industries but unable to fully capitalize on his forward-thinking vision."
     },
@@ -579,7 +579,7 @@
     {
       "title": "Autonomous Worlds",
       "author": "Anthology",
-      "cover": "images/autonomous worlds.jpeg",
+      "cover": "images/book-covers/autonomous worlds.jpg",
       "badge": "★",
       "review": "A fantastic set of essays considering what it means as our world becomes increasingly onchain and increasingly filled with virtual worlds, agents, and identities. I imagine that I'll pick this back up a few more times over the coming years as things continue to shift."
     },
@@ -607,7 +607,7 @@
     {
       "title": "Read Write Own",
       "author": "Chris Dixon",
-      "cover": "images/read write own.jpg",
+      "cover": "images/book-covers/read write own.jpg",
       "badge": "❤",
       "review": "Some of the best thinking on the future of the internet and digital ownership. Dixon's insight that \"what the smartest people do on the weekends is what everyone else will do in the week in ten years\" feels prophetic. Technology shifts every 15 years. It's time for something new."
     },
@@ -633,14 +633,14 @@
       "isbn": "9781804954768",
       "badge": "❤",
       "review": "SCP wiki fiction that escaped containment and got a proper publishing deal. The premise — entities you literally cannot remember exist, ideas that eat your ability to perceive them — gets driven so far past breaking point it loops back around to weirdly rigorous. Fragmented structure means you're dropped into scenes mid-crisis alongside characters who also have no idea what's happening, which sounds annoying but actually rules. Reminded me of Clive Barker's The Great and Secret Show in how the horror isn't the monsters themselves but the cosmology underneath, and how both books saddle regular people with cosmic burdens they have no business carrying. The rare internet-born novel that earns its cult rep."
-    },   
+    },
     {
       "title": "How Music Got Free",
       "author": "Stephen Witt",
       "isbn": "0525426612",
       "badge": "❤",
       "review": "Tells the story of the mp3 revolution through three parallel narratives. The standout is Dell Glover, a CD manufacturing plant employee who leaked thousands of albums before release, becoming an inadvertent kingpin of the warez scene. Traces how technology repeatedly kneecapped the music industry over 20 years: mp3s begat piracy which decimated CDs, iTunes changed the album, YouTube opened up a new listening stream, VEVO made the music industry money again, and then streaming cannibalized everything. Each disruption felt like an ending but turned out to be just another chapter. Through this lens, it's easy to see the music industry's current model is just another temporary equilibrium waiting to be disrupted.  A great example of how tech obliterates business models and forces reinvention."
-    },    
+    },
     {
       "title": "Stupid TV, Be More Funny",
       "author": "Alan Siegel ",
@@ -672,7 +672,7 @@
     {
       "title": "The Optimist",
       "author": "Keach Hagey",
-      "cover": "images/optimist.jpeg",
+      "cover": "images/book-covers/optimist.jpg",
       "isbn": "9781982195656",
       "badge": "❤",
       "review": "Chronicles Sam Altman's rise from Y Combinator wunderkind to the guy most associated with kickstarting the AI boom. What makes it work is that Hagey doesn't frame him as either Bond villain or savior, but as a prism: tilt one way and he's a techno-messiah, tilt another and he's just a Valley operator playing the game harder than anyone else. It's not worship and it's not a hit piece, more like an X-ray of someone who genuinely believes the future can be hacked into existence, even if the rest of the world isn't sure that's comforting."
@@ -715,7 +715,7 @@
     {
       "title": "Apple in China",
       "author": "Patrick McGee",
-      "cover": "images/apple in china.jpeg",
+      "cover": "images/book-covers/apple in china.jpg",
       "badge": "❤",
       "review": "FT reporter goes deep on Apple as a 30-year case study in getting played by your own supply chain. What starts as standard business history becomes a slow-motion car crash of corporate dependency. McGee shows how every \"smart\" decision to chase Chinese manufacturing and markets was actually Apple handing over leverage piece by piece until they had none left. What hits hardest is realizing this wasn't inevitable. Apple had choices, but the quarterly earnings pressure and Wall Street's obsession with margin expansion made every decision feel obvious at the time. Now we're stuck with the iPhone being manufactured by a country that might ban it tomorrow."
     },
@@ -750,14 +750,14 @@
     {
       "title": "Against Platforms",
       "author": "Mike Pepi",
-      "cover": "images/against platforms.jpeg",
+      "cover": "images/book-covers/against platforms.jpg",
       "badge": null,
       "review": "Sharp diagnosis, questionable cure. Pepi's teardown of platform capitalism is genuinely excellent, cutting through Silicon Valley BS with surgical precision. The myth-busting chapters are perfect ammo for dunking on web 2.0, but the book loses me when it lumps all of crypto in with platform grift, dismissing it all as just another speculative permission slip for capitalism. I get distrusting VC funding, but the answer can't be just doubling down on the same systems that enabled this mess. Worth reading for the platform critique, but the solutions feel like throwing out potentially transformative tech to save institutions that clearly aren't working."
     },
     {
       "title": "Outraged",
       "author": "Kurt Gray",
-      "cover": "images/outraged.jpg",
+      "cover": "images/book-covers/outraged.jpg",
       "badge": "❤",
       "review": "Feels like it's gonna be another \"why can't we all get along\" hand-wringer, but it pivots hard into evolutionary anthropology around the 1/3 mark. The sudden shift to \"let's contemplate the dawn of human civilization to understand Twitter fights\" shouldn't work, but it absolutely does. More books should pull this stunt. Lots of nuggets that stick: both sides think the other side is dumber, facts never change minds during peak outrage, and dehumanization is the real monster lurking behind every culture war. Gray's point is that the same tribal wiring that kept us alive on the savanna now makes us terrible at democracy. Essential for anyone wondering why reasoned discourse feels impossible rn."
     },
@@ -778,7 +778,7 @@
     {
       "title": "Out of the Ether",
       "author": "Matthew Leising",
-      "cover": "images/out of the ether.jpeg",
+      "cover": "images/book-covers/out of the ether.jpg",
       "badge": "❤",
       "review": "Captures the wild west days of early Ethereum, when teenage Vitalik and his crew of cypherpunks, academics, and dreamers accidentally built a world-changing platform held together by duct tape and vibes. The DAO hack becomes the dramatic centerpiece, but the real story is why so many believed in this nascent, stressful, borderline-breaking system. A fantastic snapshot of a moment where the future nearly ate itself."
     },
@@ -841,7 +841,7 @@
     {
       "title": "Becoming Los Angeles",
       "author": "D.J. Waldie",
-      "cover": "images/becoming los angeles.jpeg",
+      "cover": "images/book-covers/becoming los angeles.jpg",
       "badge": "★",
       "review": "Perfect prose meditation on LA as both mythscape and reality. Waldie's essays connect fake laurel trees to aerospace workers to homeless crises with rare compassion and haunting clarity. Maps the city's cultural patchwork brilliantly — from Okies reshaping suburbs to hippies nestled in Laurel Canyon, all orbiting the same sun but living different realities. The nostalgia-laced writing on \"memetic architecture\" (those giant donuts and derby-shaped diners) mourns the playful buildings that made LA feel like a dream before glass boxes replaced them. Essential for understanding a city that never stops turning into something else."
     },
@@ -862,7 +862,7 @@
     {
       "title": "The Nvidia Way",
       "author": "Tae Kim",
-      "cover": "images/nvidiaway.jpg",
+      "cover": "images/book-covers/nvidiaway.jpg",
       "badge": "❤",
       "review": "Corporate biography that only gets good when Nvidia itself starts winning. Nothing remarkable until you hit the hardcore culture anecdotes — Jensen telling teams \"second place is first loser\" and starting each day telling himself \"You suck\" in the mirror. Wild stuff about engineers staying late every night because they were legitimately obsessed with \"killing Intel.\" Dollar bonuses that somehow motivated people more than actual money would have. Ultimate case study in how a slightly toxic, heavily driven culture can create a trillion-dollar juggernaut."
     },
@@ -876,7 +876,7 @@
     {
       "title": "The Old Man and the Gun",
       "author": "David Grann",
-      "cover": "images/oldmangun.jpg",
+      "cover": "images/book-covers/oldmangun.jpg",
       "badge": null,
       "review": "Three true crime pieces: an elderly serial bank robber who escaped prison 16 times, a polish author who blurred fact and fiction until the cops got involved, and a French impostor who stole the identity of a missing Texas teen. Breezy airport reading, but in a good way."
     },
@@ -983,63 +983,63 @@
     {
       "title": "Inside the Box",
       "author": "David Epstein",
-       "isbn": "9798217294657",
+      "isbn": "9798217294657",
       "badge": "",
       "review": "The guy who wrote Range (very good!) is back to argue that constraints make you more creative — which, yeah, sold before page one. The book starts by comparing General Magic, the genius dream team with infinite money and zero deadlines who invented half the iPhone and shipped basically nothing, versus teams like Pixar and Apple that gave themselves deadlines because they knew abundance just makes you sloppy. Great pairing. The rest of the book felt like anecdote after anecdote in the same key, but I had already gotten onboard with the thesis at the very beginning. Kind of feels like a killer essay buried in a book. Author could've used a constraint or two himself."
-   },
-       {
+    },
+    {
       "title": "AI for Good",
       "author": "Josh Tyrangiel",
-       "cover": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/02/4f/74/024f7422-1b2b-5809-9e87-97d9d6782bf2/9781668082522.jpg/10000x10000bb.jpg",
+      "cover": "https://is1-ssl.mzstatic.com/image/thumb/Publication211/v4/02/4f/74/024f7422-1b2b-5809-9e87-97d9d6782bf2/9781668082522.jpg/10000x10000bb.jpg",
       "badge": "",
       "review": "Look, nobody wants to root for an optimistic tech book more than me, so I wanted this to land. And if you're AI-curious it probably does! Tyrangiel finds actual people (doctors, teachers, IRS lifers) using AI to fix real problems, which is the right story to tell. But I've been pilled for years and none of this was new territory for me. Also (and this feels a little weird to comment on) the book itself was pretty clearly written with a ton of AI help, with GPT-isms in every chapter. Overall, not for me, but I hope it converts somebody."
-   },
+    },
     {
       "title": "A Time of Changes",
       "author": "Robert Silverberg",
-       "cover": "https://mpd-biblio-covers.imgix.net/9780765322319.jpg",
+      "cover": "https://mpd-biblio-covers.imgix.net/9780765322319.jpg",
       "badge": "",
       "review": "A religious novel wearing planetary adventure clothes (extremely complimentary). Silverberg builds out a society where self-disclosure is the deepest moral violation a person can commit, then sends his protagonist across a continent picking up new companions and trades and exiles, all the journeyman beats. But the real movement is theological. He's discovering new worlds and discovering interiority at the same time, and the book takes seriously how terrifying the second one is for someone raised to believe his own selfhood is obscene.​​​​​​​​​​​​​​​​"
-   },
+    },
     {
       "title": "The Three-Body Problem",
       "author": "Liu Cixin",
-       "cover": "https://m.media-amazon.com/images/I/91DUejN+hAL._AC_UF1000,1000_QL80_.jpg",
+      "cover": "https://m.media-amazon.com/images/I/91DUejN+hAL._AC_UF1000,1000_QL80_.jpg",
       "badge": "",
       "review": "Unfortunately this did not meet me at a very Chinese time of my life. The premise is genuinely cool (alien contact, a VR game that’s secretly a Rosetta Stone for understanding an entire species, etc) but getting there is a slog. The prose reads like a physics textbook that occasionally remembers it’s supposed to have characters in it, and the characters mostly exist to deliver exposition to each other. Then the last stretch hits and suddenly you’re in the deepest, most unnerving hard sci-fi imaginable. I just wish the 250 pages before it had that same energy. Respect the ambition, glad I read it, not sure I'll make it to the sequels.​​​​​​​​​​​​​​​​"
-   },
+    },
     {
       "title": "A Truck Full of Money",
       "author": "Tracy Kidder",
       "isbn": "0812985354",
       "badge": "",
       "review": "This is the second Kidder book I've read that suffers from timing. Soul of a New Machine was written right before personal computing exploded. This one was written right before the story it's betting on stalled out. Kidder profiles Paul English, Kayak's cofounder, but the problem is that Kayak was clearly the story, and it's already over by the time the book gets going. That said, what's interesting is Paul himself. He's a genuinely unusual tech founder, in that he doesn't seem to be consumed by legacy or domination, he's just kind of a guy who knows he's good at building things and figures the money lets him help people, so why stop? Unfortunately that still needs a story to attach to, and this one doesn't quite have one."
-   },
+    },
     {
       "title": "The Techno-Optimist Manifesto",
       "author": "Marc Andreessen",
       "cover": "https://m.media-amazon.com/images/I/81FrEV3V-qL._SL1500_.jpg",
       "badge": "★",
       "review": "Full disclosure, I work at a16z, so take this with whatever grain of salt you need. But the disclosure is kind of the point: the techno-optimist belief system is a big part of what brought me there. The print edition collects some of Andreessen's essays spanning the past decade and a half. 'It's Time to Build' became a mnemonic phrase, taking deep root in Silicon Valley and beyond, but the manifesto is the fullest expression of the worldview underneath it. There's something disarming about someone just stating what they believe, over and over, without hedging. You either vibrate on this frequency or you don't. It just so happens that I do."
-   },
+    },
     {
       "title": "Antkind",
       "author": "Charlie Kaufman",
       "isbn": "0399589694",
       "badge": "★",
       "review": "Any other author trying to write prose like this would lose me inside of fifty pages. Kaufman builds sentences that double back on themselves, collapse under their own weight, and somehow keep going. Narcissistic, recursive, deeply in love with their own absurdity…and it genuinely works. The whole book is a 700(!!)-page bit that never breaks character, which should be exhausting but instead feels like watching someone juggle chainsaws with genuine grace. There's real craft hiding underneath all the maximalism; Kaufman knows exactly when to let a joke spiral and when to pull the cord. I kept expecting to hit a wall and never did. Incredible shit."
-   },
+    },
     {
       "title": "The Beach",
       "author": "Alex Garland",
       "isbn": "1573220485",
       "badge": "❤",
       "review": "Backpacker noir that nails how the search for paradise always carries the seeds of its own destruction. Garland's protagonist is magnetic in large part because he's kind of a terrible person — selfish, delusional, romanticizing everything while ruining it in real time — and his first-hand account never flinches from that. The writing has a restless, sun-drunk energy that matches the headspace of someone who's convinced they've found the last unspoiled place on earth. What starts as a travel fantasy curdles into a sharp meditation on what happens when a community built on escape has to actually govern itself. Turns out utopia requires rules, and rules require enforcement, and suddenly you're right back in the world you were running from."
-   },
-   {
+    },
+    {
       "title": "When the Going Was Good",
       "author": "Graydon Carter",
-      "cover": "images/when-the-going-was-good-1.jpg",
+      "cover": "images/book-covers/when-the-going-was-good-1.jpg",
       "badge": "❤",
       "review": "A behind-the-scenes memoir of 25 years running Vanity Fair during the last era where magazines actually mattered. To level set, there's basically an entire chapter dedicated to expense accounts that borders on obscene by today's standards, and it's one of my favorite parts of the whole book. The best sections are about having the budget and freedom to just pursue a story because you wanted to, sending writers across the world on a hunch, letting pieces breathe for months. Easy to get wistful about the golden age of magazines; there's truly nothing like it today and probably never will be again. Carter's a natural raconteur who makes every story a joy to read. Makes me want to find a magazine rack somewhere and bring a few home."
     },
