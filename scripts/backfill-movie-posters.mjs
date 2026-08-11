@@ -16,6 +16,13 @@ const normalize = value => value
   .trim()
   .toLowerCase();
 
+const optimizePosterUrl = url => {
+  if (url.includes('m.media-amazon.com/images/')) {
+    return url.replace(/\._V1_[^?]*\.jpg/i, '._V1_QL75_UX320_.jpg');
+  }
+  return url;
+};
+
 const overrides = new Map([
   // Ambiguous titles are pinned to an IMDb title ID after manual verification.
   ['The Mission', 'tt28097834'],
@@ -45,6 +52,7 @@ const results = [];
 for (const [watchedYear, movies] of Object.entries(moviesByYear)) {
   for (const movie of movies) {
     if (movie.poster) {
+      movie.poster = optimizePosterUrl(movie.poster);
       results.push({ status: 'existing', watchedYear, movie });
       continue;
     }
@@ -69,7 +77,7 @@ for (const [watchedYear, movies] of Object.entries(moviesByYear)) {
     }
 
     if (selected) {
-      movie.poster = selected.i.imageUrl;
+      movie.poster = optimizePosterUrl(selected.i.imageUrl);
       results.push({ status: 'matched', watchedYear, movie, selected });
     } else {
       results.push({ status: exact.length > 1 ? 'ambiguous' : 'unresolved', watchedYear, movie, candidates: exact });
@@ -119,6 +127,7 @@ if (shouldVerify) {
     movies.map(movie => ({ watchedYear, movie })).filter(({ movie }) => movie.poster)
   );
   const failures = [];
+  const sizes = [];
   let nextIndex = 0;
 
   async function verifyNext() {
@@ -127,8 +136,12 @@ if (shouldVerify) {
       try {
         const response = await fetch(movie.poster, { method: 'HEAD' });
         const contentType = response.headers.get('content-type') || '';
+        const bytes = Number(response.headers.get('content-length')) || 0;
+        sizes.push({ watchedYear, title: movie.title, bytes, url: movie.poster });
         if (!response.ok || !contentType.startsWith('image/')) {
           failures.push({ watchedYear, title: movie.title, status: response.status, contentType, url: movie.poster });
+        } else if (bytes > 500_000) {
+          failures.push({ watchedYear, title: movie.title, bytes, error: 'Poster exceeds 500 KB', url: movie.poster });
         }
       } catch (error) {
         failures.push({ watchedYear, title: movie.title, error: error.message, url: movie.poster });
@@ -137,6 +150,14 @@ if (shouldVerify) {
   }
 
   await Promise.all(Array.from({ length: 8 }, () => verifyNext()));
-  console.log(JSON.stringify({ verified: moviesWithPosters.length, failures }, null, 2));
+  const totalBytes = sizes.reduce((sum, poster) => sum + poster.bytes, 0);
+  const largest = sizes.sort((a, b) => b.bytes - a.bytes).slice(0, 5);
+  console.log(JSON.stringify({
+    verified: moviesWithPosters.length,
+    totalBytes,
+    totalMegabytes: Number((totalBytes / 1_000_000).toFixed(2)),
+    largest,
+    failures
+  }, null, 2));
   if (failures.length) process.exitCode = 1;
 }

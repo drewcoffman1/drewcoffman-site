@@ -563,6 +563,7 @@ title: Drew Coffman
         img.src = movie.poster;
         img.alt = movie.title;
         img.loading = 'lazy';
+        img.decoding = 'async';
         img.onload = function() { div.classList.add('has-image'); };
         img.onerror = function() { this.remove(); };
         div.appendChild(img);
