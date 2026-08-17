@@ -20,7 +20,8 @@ const sourceOverrides = new Map([
   ['9781787634107', 'https://cdn.penguin.co.uk/dam-assets/books/9781787634107/9781787634107-jacket-large.jpg'],
   ['1943499845', 'https://davidkushner.com/wp-content/uploads/2016/02/prepare-to-meet.jpg'],
   ['0670141127', 'https://i0.wp.com/www.nationalbook.org/wp-content/uploads/2015/10/cover-of-Augustus-by-John-Williams.jpg?ssl=1&w=640'],
-  ['1982159308', 'https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982114749/the-age-of-wood-9781982114749_hr.jpg']
+  ['1982159308', 'https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982114749/the-age-of-wood-9781982114749_hr.jpg'],
+  ['9781982103842', 'https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982103828/warholcapote-9781982103828_hr.jpg']
 ]);
 const placeholderHashes = new Set([
   '37cc230c16fdad5610c553d0cd3f4ba25e72b179'
