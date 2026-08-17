@@ -5,7 +5,8 @@
     "build": "npx @11ty/eleventy",
     "serve": "npx @11ty/eleventy --serve",
     "posters": "node scripts/backfill-movie-posters.mjs --write --verify",
-    "books:covers": "node scripts/optimize-book-covers.mjs --write --verify"
+    "books:covers": "node scripts/optimize-book-covers.mjs --write --verify",
+    "books:localize": "node scripts/localize-book-covers.mjs --write --verify"
   },
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"

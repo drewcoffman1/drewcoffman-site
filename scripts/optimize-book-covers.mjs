@@ -27,7 +27,7 @@ async function sourceCoverFor(cover) {
 
 for (const [readYear, books] of Object.entries(booksByYear)) {
   for (const book of books) {
-    if (!book.cover?.startsWith('images/')) continue;
+    if (!book.cover?.startsWith('images/') || book.cover.startsWith('images/book-covers/remote/')) continue;
 
     const sourceCover = await sourceCoverFor(book.cover);
     const extension = extname(sourceCover);
