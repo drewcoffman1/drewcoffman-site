@@ -1,9 +1,9 @@
 {
   "now": [
     {
-      "text": "making the case for crypto at",
-      "link": "https://x.com/a16zcrypto",
-      "linkText": "a16z"
+      "text": "telling important stories about AI at",
+      "link": "https://elevenlabs.io/",
+      "linkText": "elevenlabs"
     },
     {
       "text": "building",
@@ -13,6 +13,11 @@
     }
   ],
   "previously": [
+    {
+      "text": "made the case for crypto at",
+      "link": "https://x.com/a16zcrypto",
+      "linkText": "a16z"
+    },
     {
       "text": "shaped how",
       "link": "https://x.com/base",
