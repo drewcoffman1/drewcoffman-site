@@ -359,7 +359,16 @@ title: Drew Coffman
       author.textContent = book.author || '';
       
       if (book.review) {
-        review.textContent = book.review;
+        review.replaceChildren();
+        book.review.split(/(\*[^*]+\*)/g).forEach(part => {
+          if (part.startsWith('*') && part.endsWith('*') && part.length > 2) {
+            const emphasis = document.createElement('em');
+            emphasis.textContent = part.slice(1, -1);
+            review.appendChild(emphasis);
+          } else {
+            review.appendChild(document.createTextNode(part));
+          }
+        });
         review.className = 'modal-review';
       } else {
         review.textContent = 'No review yet.';
