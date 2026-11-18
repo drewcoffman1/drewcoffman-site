@@ -1051,6 +1051,30 @@
   ],
   "2026": [
     {
+      "title": "The AGI Chronicles",
+      "author": "Kevin Roose",
+      "isbn": "9780374618759",
+      "badge": "❤",
+      "review": "The best history of the AI industry that we have so far. Roose takes the technology as seriously as the people building it do without becoming particularly enamored of any of them. Especially good on Dario Amodei, whose apparently contradictory convictions about the promise and peril of AI make considerably more sense once you understand the course of his intellectual life. That being said, I kept thinking about Tracy Kidder’s *The Soul of a New Machine*, published in 1981, which is a wonderful book about computers that, through the misfortune of its publication date, contains almost nothing about the personal computing revolution. I wonder how much of this book will have a similar quality in ten or twenty years. Will the great personalities and ideological battles of the first half of the 2020s occupy as much space in the histories of AI written in 2040? Will some researcher mentioned in passing turn out to be the most consequential person in the whole book? One of Roose’s motivations for writing this now was that so much of the history was disappearing into self-deleting Signal messages. Good on him for getting it all down on paper, but I suspect the book will be most interesting to revisit once we know what it was the beginning of.",
+      "cover": "images/book-covers/remote/the-agi-chronicles-9780374618759.jpg"
+    },
+    {
+      "title": "Breakneck",
+      "author": "Dan Wang",
+      "isbn": "9781324106036",
+      "badge": "❤",
+      "review": "Every once in a while a book gives you a new vocabulary for understanding the world, and I suspect I’ll be using Wang’s for a long time. A Chinese-born Canadian who has spent much of his life living in the two countries he writes about, Wang proposes a wonderfully simple framework: China is a country run by engineers and America is a country run by lawyers. It’s kind of incredible how much this explains. The same engineering mentality that gave China its magnificent network of high-speed rail also gave us the horrors of the one-child policy. America’s extraordinarily robust conception of individual rights comes with the peculiar side effect of making it nearly impossible to build a train between Los Angeles and San Francisco.\n\nEspecially interesting to read alongside *Abundance*, in part because Wang reminds us that America has its own glorious history as an engineering state. There was a time when visiting America must have inspired the sort of technological awe that visiting China inspires today. I recently heard former L.A. mayor Eric Garcetti pose a great thought experiment: imagine submitting a map of the New York City subway (originally built and operated by private companies with public financing) to the American public procurement system of today. Pretty depressing to consider how much of that capacity we’ve lost.\n\nWang sees plenty of reasons to be optimistic about both countries, but if I had to pick which of these two professions I’d want overrepresented in the leadership of my country in 2026, give me the engineers.",
+      "cover": "images/book-covers/remote/breakneck-9781324106036.jpg"
+    },
+    {
+      "title": "The Prestige",
+      "author": "Christopher Priest",
+      "isbn": "9780312858865",
+      "badge": "❤",
+      "review": "I’d loved the Christopher Nolan film for years without realizing there was a novel behind it. I was immediately taken by the structure of this book (which Nolan abandoned for his adaptation): a mystery set in the relatively modern day sends us back into the private journals of two rival Victorian magicians, each with his own version of their shared history. I’m a sucker for epistolary fiction anyway, but it’s an especially inspired formal choice for a book about professional deceivers. What exactly can you trust a magician to reveal about himself, even in his own diary?\n\nThough it would have made less sense on film, the book uses it to explore the strangeness of inheriting somebody else’s secrets. The most impressive feat of the novel, though, is that even with advance knowledge of its greatest illusions, I spent much of it wondering how on earth the author was going to resolve things. And what an ending! Considerably weirder than Nolan’s, and reason enough to seek this one out. ",
+      "cover": "images/book-covers/remote/the-prestige-9780312858865.jpg"
+    },
+    {
       "title": "Roll the Calls",
       "author": "Ari Emanuel",
       "isbn": "9798217209347",
